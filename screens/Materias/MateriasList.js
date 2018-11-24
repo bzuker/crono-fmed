@@ -9,16 +9,16 @@ const styles = StyleSheet.create({
     borderRadius: 4,
     borderColor: '#03a87c',
     borderWidth: 1,
-    paddingTop: 3,
-    paddingRight: 9,
-    paddingLeft: 10,
-    paddingBottom: 1
+    paddingTop: 4,
+    paddingRight: 10,
+    paddingLeft: 11,
+    paddingBottom: 2
   },
   iconActive: {
     backgroundColor: '#03a87c',
     color: 'white',
     overflow: 'hidden',
-    paddingLeft: 11
+    paddingLeft: 12
   }
 });
 

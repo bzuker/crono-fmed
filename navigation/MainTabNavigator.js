@@ -3,27 +3,9 @@ import { Platform } from 'react-native';
 import { createStackNavigator, createBottomTabNavigator } from 'react-navigation';
 
 import TabBarIcon from '../components/TabBarIcon';
-import HomeScreen from '../screens/HomeScreen';
+import HomeStack from '../screens/Home';
 import MateriasScreen from '../screens/Materias/MateriasScreen';
 import SettingsScreen from '../screens/SettingsScreen';
-
-const HomeStack = createStackNavigator({
-  Home: HomeScreen
-});
-
-HomeStack.navigationOptions = {
-  tabBarLabel: 'Home',
-  tabBarIcon: ({ focused }) => (
-    <TabBarIcon
-      focused={focused}
-      name={
-        Platform.OS === 'ios'
-          ? `ios-information-circle${focused ? '' : '-outline'}`
-          : 'md-information-circle'
-      }
-    />
-  )
-};
 
 const MateriasStack = createStackNavigator(
   {
@@ -37,7 +19,7 @@ const MateriasStack = createStackNavigator(
 MateriasStack.navigationOptions = {
   tabBarLabel: 'Materias',
   tabBarIcon: ({ focused }) => (
-    <TabBarIcon focused={focused} name={Platform.OS === 'ios' ? 'ios-link' : 'md-link'} />
+    <TabBarIcon focused={focused} name={Platform.OS === 'ios' ? 'ios-list' : 'md-list'} />
   )
 };
 
@@ -53,7 +35,7 @@ SettingsStack.navigationOptions = {
 };
 
 export default createBottomTabNavigator({
-  MateriasStack,
   HomeStack,
+  MateriasStack,
   SettingsStack
 });

@@ -31,7 +31,7 @@ export default class MateriasScreen extends React.Component {
           </Right>
         </Header>
         <Content>
-          <H1
+          {/* <H1
             style={{
               fontWeight: '600',
               marginTop: 10,
@@ -46,7 +46,7 @@ export default class MateriasScreen extends React.Component {
               borderBottomColor: 'rgba(0,0,0,.15)',
               borderBottomWidth: 0.5
             }}
-          />
+          /> */}
           <MateriasList />
         </Content>
       </Container>
