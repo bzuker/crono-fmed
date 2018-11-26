@@ -6,6 +6,7 @@
 // })
 const notifs = [
   {
+    materiaId: '038',
     materia: 'BIOETICA I',
     sedeCat: '00-04',
     obs: 'Final Diciembre. Capuano.',
@@ -16,6 +17,7 @@ const notifs = [
     sede: 'FACULTAD'
   },
   {
+    materiaId: '038',
     materia: 'BIOETICA I',
     sedeCat: '00-08',
     obs: 'Final Diciembre- Sorokin.',
@@ -26,6 +28,7 @@ const notifs = [
     sede: 'FACULTAD'
   },
   {
+    materiaId: '026',
     materia: 'FISIOLOGIA Y BIOFISICA',
     sedeCat: '00-01',
     obs: 'Final Diciembre',
@@ -36,6 +39,7 @@ const notifs = [
     sede: 'FACULTAD'
   },
   {
+    materiaId: '023',
     materia: 'QUIMICA BIOLOGICA II - BIOQUIM',
     sedeCat: '00-00',
     obs: '1er. Final Diciembre 2018',
@@ -46,6 +50,7 @@ const notifs = [
     sede: 'FACULTAD'
   },
   {
+    materiaId: '010',
     materia: 'ANATOMIA',
     sedeCat: '00-01',
     obs: '1er. Final Diciembre 2018 ',
@@ -56,6 +61,7 @@ const notifs = [
     sede: 'FACULTAD'
   },
   {
+    materiaId: '010',
     materia: 'ANATOMIA',
     sedeCat: '00-02',
     obs: 'Final Diciembre',
@@ -66,6 +72,7 @@ const notifs = [
     sede: 'FACULTAD'
   },
   {
+    materiaId: '010',
     materia: 'ANATOMIA',
     sedeCat: '00-03',
     obs: 'Final Diciembre',
@@ -76,6 +83,7 @@ const notifs = [
     sede: 'FACULTAD'
   },
   {
+    materiaId: '033',
     materia: 'FARMACOLOGIA II',
     sedeCat: '00-02',
     obs: 'Final Diciembre 2018 Dr. Belloso 17 hs',
@@ -86,6 +94,7 @@ const notifs = [
     sede: 'FACULTAD'
   },
   {
+    materiaId: '026',
     materia: 'FISIOLOGIA Y BIOFISICA',
     sedeCat: '00-02',
     obs: 'Final Diciembre',
@@ -96,6 +105,7 @@ const notifs = [
     sede: 'FACULTAD'
   },
   {
+    materiaId: '049',
     materia: 'INMUNOLOGIA HUMANA',
     sedeCat: '00-01',
     obs: 'Final Noviembre 2018',
@@ -106,6 +116,7 @@ const notifs = [
     sede: 'FACULTAD'
   },
   {
+    materiaId: '027',
     materia: 'PATOLOGIA I',
     sedeCat: '00-00',
     obs: 'Final Diciembre',
@@ -116,6 +127,7 @@ const notifs = [
     sede: 'FACULTAD'
   },
   {
+    materiaId: '015',
     materia: 'SALUD PUBLICA I',
     sedeCat: '00-00',
     obs: 'Final Diciembre.',
@@ -126,6 +138,7 @@ const notifs = [
     sede: 'FACULTAD'
   },
   {
+    materiaId: '052',
     materia: 'SALUD PUBLICA II',
     sedeCat: '00-00',
     obs: 'Final Diciembre.',
@@ -136,6 +149,7 @@ const notifs = [
     sede: 'FACULTAD'
   },
   {
+    materiaId: '049',
     materia: 'INMUNOLOGIA HUMANA',
     sedeCat: '00-02',
     obs: '2do. Final Diciembre 2018 Dr. Alonso',
@@ -146,6 +160,7 @@ const notifs = [
     sede: 'FACULTAD'
   },
   {
+    materiaId: '069',
     materia: 'MICRO y PARASITO II',
     sedeCat: '00-02',
     obs: '2do. Final Diciembre 2018 Dr. Gonzalez',
@@ -156,6 +171,7 @@ const notifs = [
     sede: 'FACULTAD'
   },
   {
+    materiaId: '059',
     materia: 'MICRO Y PARASITO I',
     sedeCat: '00-01',
     obs: 'Final Diciembre - Cat. 1',
@@ -166,6 +182,7 @@ const notifs = [
     sede: 'FACULTAD'
   },
   {
+    materiaId: '059',
     materia: 'MICRO Y PARASITO I',
     sedeCat: '00-02',
     obs: '2do. Final Diciembre 2018 Dr. Alonso',
@@ -176,6 +193,7 @@ const notifs = [
     sede: 'FACULTAD'
   },
   {
+    materiaId: '069',
     materia: 'MICRO y PARASITO II',
     sedeCat: '00-01',
     obs: 'Final Diciembre - Cat. 1',

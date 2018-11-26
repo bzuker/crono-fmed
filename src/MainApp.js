@@ -19,11 +19,16 @@ export class MainApp extends Component {
     this._setUpRefs(user.uid);
   };
 
+  componentWillUnmount = () => {
+    this.materiasRef.off();
+    this.notifRef.off();
+  };
+
   _setUpRefs = uid => {
-    const materiasRef = firebase.database().ref(`users/${uid}/materias`);
-    const notifRef = firebase.database().ref(`users/${uid}/notificaciones`);
-    materiasRef.on('value', this._onMateriasChange);
-    notifRef.on('value', this._onNotifChange);
+    this.materiasRef = firebase.database().ref(`users/${uid}/materias`);
+    this.notifRef = firebase.database().ref(`users/${uid}/notificaciones`);
+    this.materiasRef.on('value', this._onMateriasChange);
+    this.notifRef.on('value', this._onNotifChange);
   };
 
   _onMateriasChange = snapshot => {
