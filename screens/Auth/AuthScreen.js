@@ -25,11 +25,26 @@ export class AuthScreen extends Component {
     pwd: ''
   };
 
+  _createUserAsync = async _ => {
+    const { mail, pwd } = this.state;
+    try {
+      const creds = await firebase
+        .auth()
+        .createUserWithEmailAndPassword(mail, pwd);
+      await AsyncStorage.setItem('user', JSON.stringify(creds.user));
+      this.props.navigation.navigate('App');
+    } catch (error) {
+      if (error.code === 'auth/email-already-in-use') {
+        this._signInAsync(mail, pwd);
+      }
+    }
+  };
+
   _signInAsync = async () => {
     const { mail, pwd } = this.state;
     try {
-      const creds = await firebase.auth().createUserWithEmailAndPassword(mail, pwd);
-      await AsyncStorage.setItem('user', JSON.stringify(creds));
+      const creds = await firebase.auth().signInWithEmailAndPassword(mail, pwd);
+      await AsyncStorage.setItem('user', JSON.stringify(creds.user));
       this.props.navigation.navigate('App');
     } catch (error) {
       alert(JSON.stringify(error));
@@ -62,7 +77,10 @@ export class AuthScreen extends Component {
           <Form>
             <Item floatingLabel>
               <Label>Mail</Label>
-              <Input value={this.state.mail} onChangeText={mail => this.setState({ mail })} />
+              <Input
+                value={this.state.mail}
+                onChangeText={mail => this.setState({ mail })}
+              />
             </Item>
             <Item floatingLabel last>
               <Label>Contraseña</Label>
@@ -73,11 +91,21 @@ export class AuthScreen extends Component {
               />
             </Item>
 
-            <Button full primary style={{ paddingBottom: 4 }} onPress={this._signInAsync}>
-              <Text> Ingresar </Text>
+            <Button
+              full
+              primary
+              style={{ paddingBottom: 4 }}
+              onPress={this._createUserAsync}
+            >
+              <Text> Crear </Text>
             </Button>
 
-            <Button full warning style={{ paddingBottom: 4 }} onPress={this._signInAnonymousAsync}>
+            <Button
+              full
+              warning
+              style={{ paddingBottom: 4 }}
+              onPress={this._signInAnonymousAsync}
+            >
               <Text> Ingreso Anónimo </Text>
             </Button>
           </Form>

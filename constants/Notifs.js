@@ -1,0 +1,190 @@
+// $0 es el tbody (de cada tabla)
+// [...$0.children].slice(2).map(x => {
+// 	const cols = [...x.children]
+// 	const [materia, sedeCat, obs, comienzo, fin, fecha, finRat, sede] = cols.map(c => c.textContent);
+// 	return {materia, sedeCat,obs,comienzo,fin,fecha,finRat,sede}
+// })
+const notifs = [
+  {
+    materia: 'BIOETICA I',
+    sedeCat: '00-04',
+    obs: 'Final Diciembre. Capuano.',
+    comienzo: '20/11/2018',
+    fin: '28/11/2018',
+    fecha: '03/12/2018',
+    finRat: '29/11/2018',
+    sede: 'FACULTAD'
+  },
+  {
+    materia: 'BIOETICA I',
+    sedeCat: '00-08',
+    obs: 'Final Diciembre- Sorokin.',
+    comienzo: '20/11/2018',
+    fin: '28/11/2018',
+    fecha: '03/12/2018',
+    finRat: '29/11/2018',
+    sede: 'FACULTAD'
+  },
+  {
+    materia: 'FISIOLOGIA Y BIOFISICA',
+    sedeCat: '00-01',
+    obs: 'Final Diciembre',
+    comienzo: '22/11/2018',
+    fin: '26/11/2018',
+    fecha: '03/12/2018',
+    finRat: '28/11/2018',
+    sede: 'FACULTAD'
+  },
+  {
+    materia: 'QUIMICA BIOLOGICA II - BIOQUIM',
+    sedeCat: '00-00',
+    obs: '1er. Final Diciembre 2018',
+    comienzo: '22/11/2018',
+    fin: '28/11/2018',
+    fecha: '06/12/2018',
+    finRat: '30/11/2018',
+    sede: 'FACULTAD'
+  },
+  {
+    materia: 'ANATOMIA',
+    sedeCat: '00-01',
+    obs: '1er. Final Diciembre 2018 ',
+    comienzo: '23/11/2018',
+    fin: '27/11/2018',
+    fecha: '03/12/2018',
+    finRat: '29/11/2018',
+    sede: 'FACULTAD'
+  },
+  {
+    materia: 'ANATOMIA',
+    sedeCat: '00-02',
+    obs: 'Final Diciembre',
+    comienzo: '23/11/2018',
+    fin: '27/11/2018',
+    fecha: '03/12/2018',
+    finRat: '29/11/2018',
+    sede: 'FACULTAD'
+  },
+  {
+    materia: 'ANATOMIA',
+    sedeCat: '00-03',
+    obs: 'Final Diciembre',
+    comienzo: '23/11/2018',
+    fin: '27/11/2018',
+    fecha: '03/12/2018',
+    finRat: '29/11/2018',
+    sede: 'FACULTAD'
+  },
+  {
+    materia: 'FARMACOLOGIA II',
+    sedeCat: '00-02',
+    obs: 'Final Diciembre 2018 Dr. Belloso 17 hs',
+    comienzo: '23/11/2018',
+    fin: '26/11/2018',
+    fecha: '11/12/2018',
+    finRat: '28/11/2018',
+    sede: 'FACULTAD'
+  },
+  {
+    materia: 'FISIOLOGIA Y BIOFISICA',
+    sedeCat: '00-02',
+    obs: 'Final Diciembre',
+    comienzo: '23/11/2018',
+    fin: '27/11/2018',
+    fecha: '05/12/2018',
+    finRat: '29/11/2018',
+    sede: 'FACULTAD'
+  },
+  {
+    materia: 'INMUNOLOGIA HUMANA',
+    sedeCat: '00-01',
+    obs: 'Final Noviembre 2018',
+    comienzo: '23/11/2018',
+    fin: '26/11/2018',
+    fecha: '30/11/2018',
+    finRat: '28/11/2018',
+    sede: 'FACULTAD'
+  },
+  {
+    materia: 'PATOLOGIA I',
+    sedeCat: '00-00',
+    obs: 'Final Diciembre',
+    comienzo: '23/11/2018',
+    fin: '26/11/2018',
+    fecha: '03/12/2018',
+    finRat: '28/11/2018',
+    sede: 'FACULTAD'
+  },
+  {
+    materia: 'SALUD PUBLICA I',
+    sedeCat: '00-00',
+    obs: 'Final Diciembre.',
+    comienzo: '23/11/2018',
+    fin: '27/11/2018',
+    fecha: '10/12/2018',
+    finRat: '04/12/2018',
+    sede: 'FACULTAD'
+  },
+  {
+    materia: 'SALUD PUBLICA II',
+    sedeCat: '00-00',
+    obs: 'Final Diciembre.',
+    comienzo: '23/11/2018',
+    fin: '27/11/2018',
+    fecha: '10/12/2018',
+    finRat: '04/12/2018',
+    sede: 'FACULTAD'
+  },
+  {
+    materia: 'INMUNOLOGIA HUMANA',
+    sedeCat: '00-02',
+    obs: '2do. Final Diciembre 2018 Dr. Alonso',
+    comienzo: '25/11/2018',
+    fin: '27/11/2018',
+    fecha: '10/12/2018',
+    finRat: '30/11/2018',
+    sede: 'FACULTAD'
+  },
+  {
+    materia: 'MICRO y PARASITO II',
+    sedeCat: '00-02',
+    obs: '2do. Final Diciembre 2018 Dr. Gonzalez',
+    comienzo: '25/11/2018',
+    fin: '28/11/2018',
+    fecha: '11/12/2018',
+    finRat: '03/12/2018',
+    sede: 'FACULTAD'
+  },
+  {
+    materia: 'MICRO Y PARASITO I',
+    sedeCat: '00-01',
+    obs: 'Final Diciembre - Cat. 1',
+    comienzo: '26/11/2018',
+    fin: '28/11/2018',
+    fecha: '04/12/2018',
+    finRat: '30/11/2018',
+    sede: 'FACULTAD'
+  },
+  {
+    materia: 'MICRO Y PARASITO I',
+    sedeCat: '00-02',
+    obs: '2do. Final Diciembre 2018 Dr. Alonso',
+    comienzo: '26/11/2018',
+    fin: '29/11/2018',
+    fecha: '12/12/2018',
+    finRat: '04/12/2018',
+    sede: 'FACULTAD'
+  },
+  {
+    materia: 'MICRO y PARASITO II',
+    sedeCat: '00-01',
+    obs: 'Final Diciembre - Cat. 1',
+    comienzo: '26/11/2018',
+    fin: '28/11/2018',
+    fecha: '05/12/2018',
+    finRat: '30/11/2018',
+    sede: 'FACULTAD'
+  }
+];
+
+export default notifs;

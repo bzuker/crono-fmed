@@ -12,7 +12,7 @@ const styles = StyleSheet.create({
   }
 });
 
-class MyApp extends Component {
+class RootApp extends Component {
   render() {
     return (
       <Root>
@@ -27,4 +27,4 @@ class MyApp extends Component {
   }
 }
 
-export default MyApp;
+export default RootApp;

@@ -1,5 +1,5 @@
 {
-  "name": "my-new-project",
+  "name": "crono-fmed",
   "main": "node_modules/expo/AppEntry.js",
   "private": true,
   "scripts": {
@@ -13,7 +13,6 @@
     "preset": "jest-expo"
   },
   "dependencies": {
-    "@expo/samples": "2.1.1",
     "@expo/vector-icons": "^8.0.0",
     "expo": "^31.0.2",
     "firebase": "^5.5.9",

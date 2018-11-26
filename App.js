@@ -1,6 +1,6 @@
 import React from 'react';
 import { AppLoading, Asset, Font, Icon } from 'expo';
-import MyApp from './src/MyApp';
+import RootApp from './src/RootApp';
 
 export default class App extends React.Component {
   state = {
@@ -17,7 +17,7 @@ export default class App extends React.Component {
         />
       );
     } else {
-      return <MyApp />;
+      return <RootApp />;
     }
   }
 

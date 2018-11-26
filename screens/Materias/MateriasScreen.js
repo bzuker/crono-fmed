@@ -14,8 +14,23 @@ import {
   H1
 } from 'native-base';
 import MateriasList from './MateriasList';
+import firebase from '../../src/firebase';
 
 export default class MateriasScreen extends React.Component {
+  componentDidMount = () => {
+    const { user } = this.props.screenProps;
+    this.ref = firebase.database().ref(`users/${user.uid}/materias`);
+  };
+
+  toggleSelected = id => {
+    const { materias } = this.props.screenProps;
+    if (materias.includes(id)) {
+      this.ref.child(id).remove();
+    } else {
+      this.ref.child(id).set(true);
+    }
+  };
+
   render() {
     return (
       <Container>
@@ -47,7 +62,10 @@ export default class MateriasScreen extends React.Component {
               borderBottomWidth: 0.5
             }}
           /> */}
-          <MateriasList />
+          <MateriasList
+            selected={this.props.screenProps.materias}
+            toggleSelected={this.toggleSelected}
+          />
         </Content>
       </Container>
     );

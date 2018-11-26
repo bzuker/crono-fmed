@@ -23,37 +23,28 @@ const styles = StyleSheet.create({
 });
 
 export default class MateriasList extends Component {
-  state = {
-    materias: Materias.map(x => ({
-      name: x.name,
-      value: x.value,
-      selected: false
-    }))
-  };
-
-  toggleSelected = id => {
-    this.setState(state => {
-      let materia = state.materias.find(x => x.value == id);
-      materia.selected = !materia.selected;
-      return {
-        materias: state.materias
-      };
-    });
-  };
-
   render() {
     return (
       <List listItemPadding={20}>
-        {this.state.materias.map(x => (
+        {Materias.map(x => (
           <ListItem key={x.value}>
             <Body>
               <Text>{x.name}</Text>
             </Body>
             <Right>
               <Icon
-                name={x.selected ? 'ios-checkmark' : 'ios-add'}
-                style={[styles.icon, x.selected ? styles.iconActive : null]}
-                onPress={_ => this.toggleSelected(x.value)}
+                name={
+                  this.props.selected.includes(x.value)
+                    ? 'ios-checkmark'
+                    : 'ios-add'
+                }
+                style={[
+                  styles.icon,
+                  this.props.selected.includes(x.value)
+                    ? styles.iconActive
+                    : null
+                ]}
+                onPress={_ => this.props.toggleSelected(x.value)}
               />
             </Right>
           </ListItem>
