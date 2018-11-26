@@ -27,15 +27,15 @@ const styles = StyleSheet.create({
   }
 });
 
-const Notificacion = props => (
+const Notificacion = ({ notificacion, onInfoPress }) => (
   <ListItem style={{ alignItems: 'flex-start' }}>
     <Body>
-      <Text style={styles.header}>Inscripción a Final de anatomía</Text>
+      <Text style={styles.header}>{notificacion.title}</Text>
       <Text note style={{ fontSize: 16 }}>
-        Cátedra 01
+        {notificacion.comment}
       </Text>
       <Text note style={{ marginTop: 32 }}>
-        27/11/2018 - 30/11/2018
+        {notificacion.start} - {notificacion.end}
       </Text>
     </Body>
     <Right>
@@ -44,7 +44,7 @@ const Notificacion = props => (
         <Text style={{ color: '#03a87c' }}>Días</Text>
       </View>
       <View style={styles.moreIcon}>
-        <Icon name="more-horizontal" type="Feather" onPress={props.onInfoPress} />
+        <Icon name="more-horizontal" type="Feather" onPress={onInfoPress} />
       </View>
     </Right>
   </ListItem>
@@ -58,23 +58,9 @@ export class Notificaciones extends Component {
   render() {
     return (
       <List>
-        <Notificacion
-          onInfoPress={_ =>
-            ActionSheet.show(
-              {
-                options: BUTTONS,
-                cancelButtonIndex: CANCEL_INDEX,
-                destructiveButtonIndex: DESTRUCTIVE_INDEX
-                // title: 'Testing ActionSheet'
-              },
-              buttonIndex => {
-                this.setState({ clicked: BUTTONS[buttonIndex] });
-              }
-            )
-          }
-        />
-        <Notificacion />
-        <Notificacion />
+        {this.props.data.map((x, i) => (
+          <Notificacion key={i} notificacion={x} />
+        ))}
       </List>
     );
   }

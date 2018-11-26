@@ -1,17 +1,7 @@
 import React, { Component } from 'react';
 import { View } from 'react-native';
 import firebase from '../../src/firebase';
-import {
-  Container,
-  Header,
-  Title,
-  Content,
-  Left,
-  Right,
-  Body,
-  Icon,
-  Fab
-} from 'native-base';
+import { Container, Header, Title, Content, Left, Right, Body, Icon, Fab } from 'native-base';
 import Notificaciones from './Notificaciones';
 
 export class HomeScreen extends Component {
@@ -30,13 +20,12 @@ export class HomeScreen extends Component {
           <Right />
         </Header>
         <Content>
-          <Notificaciones />
+          <Notificaciones data={this.props.screenProps.notificaciones} />
         </Content>
         <Fab
           style={{ backgroundColor: '#03a87c' }}
           position="bottomRight"
-          onPress={_ => this.props.navigation.navigate('Add')}
-        >
+          onPress={_ => this.props.navigation.navigate('Add')}>
           <Icon name="ios-add" />
         </Fab>
       </Container>

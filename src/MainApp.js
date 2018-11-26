@@ -32,7 +32,7 @@ export class MainApp extends Component {
   };
 
   _onMateriasChange = snapshot => {
-    // console.log('materias changed:', { snapshot });
+    console.log('materias changed:', { snapshot });
     let materias = [];
     snapshot.forEach(m => {
       materias.push(m.key);
@@ -42,15 +42,16 @@ export class MainApp extends Component {
 
   _onNotifChange = snapshot => {
     console.log('notifs', snapshot);
+    let notificaciones = [];
+    snapshot.forEach(m => {
+      console.log('val', m.val());
+      notificaciones.push(m.val());
+    });
+    this.setState({ notificaciones });
   };
 
   render() {
-    return (
-      <MainTabNavigator
-        screenProps={{ ...this.state }}
-        navigation={this.props.navigation}
-      />
-    );
+    return <MainTabNavigator screenProps={{ ...this.state }} navigation={this.props.navigation} />;
   }
 }
 
