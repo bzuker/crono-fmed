@@ -5,8 +5,17 @@ import { Container, Header, Title, Content, Left, Right, Body, Icon, Fab } from 
 import Notificaciones from './Notificaciones';
 
 export class HomeScreen extends Component {
-  componentDidMount = () => {
-    //
+  componentDidUpdate = (prevProps, prevState) => {
+    const { user } = this.props.screenProps;
+    if (!prevProps.screenProps.user && user) {
+      this.ref = firebase.database().ref(`users/${user.uid}/notificaciones`);
+    }
+  };
+
+  deleteNotification = id => {
+    console.log(`Deleting ${id}`);
+    console.log(this.ref.toString());
+    this.ref.child(id).remove();
   };
 
   render() {
@@ -20,7 +29,10 @@ export class HomeScreen extends Component {
           <Right />
         </Header>
         <Content>
-          <Notificaciones data={this.props.screenProps.notificaciones} />
+          <Notificaciones
+            data={this.props.screenProps.notificaciones}
+            deleteNotification={this.deleteNotification}
+          />
         </Content>
         <Fab
           style={{ backgroundColor: '#03a87c' }}

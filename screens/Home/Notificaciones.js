@@ -50,16 +50,29 @@ const Notificacion = ({ notificacion, onInfoPress }) => (
   </ListItem>
 );
 
-var BUTTONS = ['Option 0', 'Option 1', 'Option 2', 'Delete', 'Cancel'];
-var DESTRUCTIVE_INDEX = 3;
-var CANCEL_INDEX = 4;
-
 export class Notificaciones extends Component {
+  onInfoPress = id =>
+    ActionSheet.show(
+      {
+        options: ['Editar', 'Eliminar', 'Cerrar'],
+        cancelButtonIndex: 2,
+        destructiveButtonIndex: 1
+      },
+      btnIndex => this.onButtonPressed(btnIndex, id)
+    );
+
+  onButtonPressed = (btnIndex, id) => {
+    console.log(`Pressed ${btnIndex}. Id: ${id}`);
+    if (btnIndex === 1) {
+      this.props.deleteNotification(id);
+    }
+  };
+
   render() {
     return (
       <List>
         {this.props.data.map((x, i) => (
-          <Notificacion key={i} notificacion={x} />
+          <Notificacion key={i} notificacion={x} onInfoPress={_ => this.onInfoPress(x.id)} />
         ))}
       </List>
     );

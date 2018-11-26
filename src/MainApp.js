@@ -7,7 +7,7 @@ export class MainApp extends Component {
   static router = MainTabNavigator.router;
 
   state = {
-    user: {},
+    user: null,
     materias: [],
     notificaciones: []
   };
@@ -43,9 +43,9 @@ export class MainApp extends Component {
   _onNotifChange = snapshot => {
     console.log('notifs', snapshot);
     let notificaciones = [];
-    snapshot.forEach(m => {
-      console.log('val', m.val());
-      notificaciones.push(m.val());
+    snapshot.forEach(n => {
+      console.log('val', n.val());
+      notificaciones.push({ ...n.val(), id: n.key });
     });
     this.setState({ notificaciones });
   };
