@@ -1,0 +1,6273 @@
+[
+  {
+    "title": "Inscripción a Final BIOETICA I",
+    "materiaId": "038",
+    "materia": "BIOETICA I",
+    "sedeCat": "00-04",
+    "obs": "Final Diciembre. Capuano.",
+    "start": "20/11/2018",
+    "end": "28/11/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de BIOETICA I",
+    "materiaId": "038",
+    "materia": "BIOETICA I",
+    "sedeCat": "00-04",
+    "obs": "Final Diciembre. Capuano.",
+    "start": "03/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de BIOETICA I",
+    "materiaId": "038",
+    "materia": "BIOETICA I",
+    "sedeCat": "00-04",
+    "obs": "Final Diciembre. Capuano.",
+    "start": "29/11/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final BIOETICA I",
+    "materiaId": "038",
+    "materia": "BIOETICA I",
+    "sedeCat": "00-08",
+    "obs": "Final Diciembre- Sorokin.",
+    "start": "20/11/2018",
+    "end": "28/11/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de BIOETICA I",
+    "materiaId": "038",
+    "materia": "BIOETICA I",
+    "sedeCat": "00-08",
+    "obs": "Final Diciembre- Sorokin.",
+    "start": "03/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de BIOETICA I",
+    "materiaId": "038",
+    "materia": "BIOETICA I",
+    "sedeCat": "00-08",
+    "obs": "Final Diciembre- Sorokin.",
+    "start": "29/11/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FISIOLOGIA Y BIOFISICA",
+    "materiaId": "026",
+    "materia": "FISIOLOGIA Y BIOFISICA",
+    "sedeCat": "00-01",
+    "obs": "Final Diciembre",
+    "start": "22/11/2018",
+    "end": "26/11/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FISIOLOGIA Y BIOFISICA",
+    "materiaId": "026",
+    "materia": "FISIOLOGIA Y BIOFISICA",
+    "sedeCat": "00-01",
+    "obs": "Final Diciembre",
+    "start": "03/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FISIOLOGIA Y BIOFISICA",
+    "materiaId": "026",
+    "materia": "FISIOLOGIA Y BIOFISICA",
+    "sedeCat": "00-01",
+    "obs": "Final Diciembre",
+    "start": "28/11/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final QUIMICA BIOLOGICA II - BIOQUIM",
+    "materiaId": "023",
+    "materia": "QUIMICA BIOLOGICA II - BIOQUIM",
+    "sedeCat": "00-00",
+    "obs": "1er. Final Diciembre 2018",
+    "start": "22/11/2018",
+    "end": "28/11/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de QUIMICA BIOLOGICA II - BIOQUIM",
+    "materiaId": "023",
+    "materia": "QUIMICA BIOLOGICA II - BIOQUIM",
+    "sedeCat": "00-00",
+    "obs": "1er. Final Diciembre 2018",
+    "start": "06/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de QUIMICA BIOLOGICA II - BIOQUIM",
+    "materiaId": "023",
+    "materia": "QUIMICA BIOLOGICA II - BIOQUIM",
+    "sedeCat": "00-00",
+    "obs": "1er. Final Diciembre 2018",
+    "start": "30/11/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-01",
+    "obs": "1er. Final Diciembre 2018 ",
+    "start": "23/11/2018",
+    "end": "27/11/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-01",
+    "obs": "1er. Final Diciembre 2018 ",
+    "start": "03/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-01",
+    "obs": "1er. Final Diciembre 2018 ",
+    "start": "29/11/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-02",
+    "obs": "Final Diciembre",
+    "start": "23/11/2018",
+    "end": "27/11/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-02",
+    "obs": "Final Diciembre",
+    "start": "03/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-02",
+    "obs": "Final Diciembre",
+    "start": "29/11/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre",
+    "start": "23/11/2018",
+    "end": "27/11/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre",
+    "start": "03/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre",
+    "start": "29/11/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-02",
+    "obs": "Final Diciembre 2018 Dr. Belloso 17 hs",
+    "start": "23/11/2018",
+    "end": "26/11/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-02",
+    "obs": "Final Diciembre 2018 Dr. Belloso 17 hs",
+    "start": "11/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-02",
+    "obs": "Final Diciembre 2018 Dr. Belloso 17 hs",
+    "start": "28/11/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FISIOLOGIA Y BIOFISICA",
+    "materiaId": "026",
+    "materia": "FISIOLOGIA Y BIOFISICA",
+    "sedeCat": "00-02",
+    "obs": "Final Diciembre",
+    "start": "23/11/2018",
+    "end": "27/11/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FISIOLOGIA Y BIOFISICA",
+    "materiaId": "026",
+    "materia": "FISIOLOGIA Y BIOFISICA",
+    "sedeCat": "00-02",
+    "obs": "Final Diciembre",
+    "start": "05/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FISIOLOGIA Y BIOFISICA",
+    "materiaId": "026",
+    "materia": "FISIOLOGIA Y BIOFISICA",
+    "sedeCat": "00-02",
+    "obs": "Final Diciembre",
+    "start": "29/11/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final INMUNOLOGIA HUMANA",
+    "materiaId": "049",
+    "materia": "INMUNOLOGIA HUMANA",
+    "sedeCat": "00-01",
+    "obs": "Final Noviembre 2018",
+    "start": "23/11/2018",
+    "end": "26/11/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de INMUNOLOGIA HUMANA",
+    "materiaId": "049",
+    "materia": "INMUNOLOGIA HUMANA",
+    "sedeCat": "00-01",
+    "obs": "Final Noviembre 2018",
+    "start": "30/11/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de INMUNOLOGIA HUMANA",
+    "materiaId": "049",
+    "materia": "INMUNOLOGIA HUMANA",
+    "sedeCat": "00-01",
+    "obs": "Final Noviembre 2018",
+    "start": "28/11/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final PATOLOGIA I",
+    "materiaId": "027",
+    "materia": "PATOLOGIA I",
+    "sedeCat": "00-00",
+    "obs": "Final Diciembre",
+    "start": "23/11/2018",
+    "end": "26/11/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de PATOLOGIA I",
+    "materiaId": "027",
+    "materia": "PATOLOGIA I",
+    "sedeCat": "00-00",
+    "obs": "Final Diciembre",
+    "start": "03/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de PATOLOGIA I",
+    "materiaId": "027",
+    "materia": "PATOLOGIA I",
+    "sedeCat": "00-00",
+    "obs": "Final Diciembre",
+    "start": "28/11/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final SALUD PUBLICA I",
+    "materiaId": "015",
+    "materia": "SALUD PUBLICA I",
+    "sedeCat": "00-00",
+    "obs": "Final Diciembre.",
+    "start": "23/11/2018",
+    "end": "27/11/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de SALUD PUBLICA I",
+    "materiaId": "015",
+    "materia": "SALUD PUBLICA I",
+    "sedeCat": "00-00",
+    "obs": "Final Diciembre.",
+    "start": "10/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de SALUD PUBLICA I",
+    "materiaId": "015",
+    "materia": "SALUD PUBLICA I",
+    "sedeCat": "00-00",
+    "obs": "Final Diciembre.",
+    "start": "04/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final SALUD PUBLICA II",
+    "materiaId": "052",
+    "materia": "SALUD PUBLICA II",
+    "sedeCat": "00-00",
+    "obs": "Final Diciembre.",
+    "start": "23/11/2018",
+    "end": "27/11/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de SALUD PUBLICA II",
+    "materiaId": "052",
+    "materia": "SALUD PUBLICA II",
+    "sedeCat": "00-00",
+    "obs": "Final Diciembre.",
+    "start": "10/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de SALUD PUBLICA II",
+    "materiaId": "052",
+    "materia": "SALUD PUBLICA II",
+    "sedeCat": "00-00",
+    "obs": "Final Diciembre.",
+    "start": "04/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final INMUNOLOGIA HUMANA",
+    "materiaId": "049",
+    "materia": "INMUNOLOGIA HUMANA",
+    "sedeCat": "00-02",
+    "obs": "2do. Final Diciembre 2018 Dr. Alonso",
+    "start": "25/11/2018",
+    "end": "27/11/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de INMUNOLOGIA HUMANA",
+    "materiaId": "049",
+    "materia": "INMUNOLOGIA HUMANA",
+    "sedeCat": "00-02",
+    "obs": "2do. Final Diciembre 2018 Dr. Alonso",
+    "start": "10/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de INMUNOLOGIA HUMANA",
+    "materiaId": "049",
+    "materia": "INMUNOLOGIA HUMANA",
+    "sedeCat": "00-02",
+    "obs": "2do. Final Diciembre 2018 Dr. Alonso",
+    "start": "30/11/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final MICRO y PARASITO II",
+    "materiaId": "069",
+    "materia": "MICRO y PARASITO II",
+    "sedeCat": "00-02",
+    "obs": "2do. Final Diciembre 2018 Dr. Gonzalez",
+    "start": "25/11/2018",
+    "end": "28/11/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de MICRO y PARASITO II",
+    "materiaId": "069",
+    "materia": "MICRO y PARASITO II",
+    "sedeCat": "00-02",
+    "obs": "2do. Final Diciembre 2018 Dr. Gonzalez",
+    "start": "11/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de MICRO y PARASITO II",
+    "materiaId": "069",
+    "materia": "MICRO y PARASITO II",
+    "sedeCat": "00-02",
+    "obs": "2do. Final Diciembre 2018 Dr. Gonzalez",
+    "start": "03/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final MICRO Y PARASITO I",
+    "materiaId": "059",
+    "materia": "MICRO Y PARASITO I",
+    "sedeCat": "00-01",
+    "obs": "Final Diciembre - Cat. 1",
+    "start": "26/11/2018",
+    "end": "28/11/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de MICRO Y PARASITO I",
+    "materiaId": "059",
+    "materia": "MICRO Y PARASITO I",
+    "sedeCat": "00-01",
+    "obs": "Final Diciembre - Cat. 1",
+    "start": "04/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de MICRO Y PARASITO I",
+    "materiaId": "059",
+    "materia": "MICRO Y PARASITO I",
+    "sedeCat": "00-01",
+    "obs": "Final Diciembre - Cat. 1",
+    "start": "30/11/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final MICRO Y PARASITO I",
+    "materiaId": "059",
+    "materia": "MICRO Y PARASITO I",
+    "sedeCat": "00-02",
+    "obs": "2do. Final Diciembre 2018 Dr. Alonso",
+    "start": "26/11/2018",
+    "end": "29/11/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de MICRO Y PARASITO I",
+    "materiaId": "059",
+    "materia": "MICRO Y PARASITO I",
+    "sedeCat": "00-02",
+    "obs": "2do. Final Diciembre 2018 Dr. Alonso",
+    "start": "12/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de MICRO Y PARASITO I",
+    "materiaId": "059",
+    "materia": "MICRO Y PARASITO I",
+    "sedeCat": "00-02",
+    "obs": "2do. Final Diciembre 2018 Dr. Alonso",
+    "start": "04/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final MICRO y PARASITO II",
+    "materiaId": "069",
+    "materia": "MICRO y PARASITO II",
+    "sedeCat": "00-01",
+    "obs": "Final Diciembre - Cat. 1",
+    "start": "26/11/2018",
+    "end": "28/11/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de MICRO y PARASITO II",
+    "materiaId": "069",
+    "materia": "MICRO y PARASITO II",
+    "sedeCat": "00-01",
+    "obs": "Final Diciembre - Cat. 1",
+    "start": "05/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de MICRO y PARASITO II",
+    "materiaId": "069",
+    "materia": "MICRO y PARASITO II",
+    "sedeCat": "00-01",
+    "obs": "Final Diciembre - Cat. 1",
+    "start": "30/11/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+
+  {
+    "title": "Inscripción a Final MICRO Y PARASITO I",
+    "materiaId": "059",
+    "materia": "MICRO Y PARASITO I",
+    "sedeCat": "00-01",
+    "obs": "Final Diciembre - Cat. 1",
+    "start": "26/11/2018",
+    "end": "28/11/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de MICRO Y PARASITO I",
+    "materiaId": "059",
+    "materia": "MICRO Y PARASITO I",
+    "sedeCat": "00-01",
+    "obs": "Final Diciembre - Cat. 1",
+    "start": "04/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de MICRO Y PARASITO I",
+    "materiaId": "059",
+    "materia": "MICRO Y PARASITO I",
+    "sedeCat": "00-01",
+    "obs": "Final Diciembre - Cat. 1",
+    "start": "30/11/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final MICRO Y PARASITO I",
+    "materiaId": "059",
+    "materia": "MICRO Y PARASITO I",
+    "sedeCat": "00-02",
+    "obs": "2do. Final Diciembre 2018 Dr. Alonso",
+    "start": "26/11/2018",
+    "end": "29/11/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de MICRO Y PARASITO I",
+    "materiaId": "059",
+    "materia": "MICRO Y PARASITO I",
+    "sedeCat": "00-02",
+    "obs": "2do. Final Diciembre 2018 Dr. Alonso",
+    "start": "12/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de MICRO Y PARASITO I",
+    "materiaId": "059",
+    "materia": "MICRO Y PARASITO I",
+    "sedeCat": "00-02",
+    "obs": "2do. Final Diciembre 2018 Dr. Alonso",
+    "start": "04/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final MICRO y PARASITO II",
+    "materiaId": "069",
+    "materia": "MICRO y PARASITO II",
+    "sedeCat": "00-01",
+    "obs": "Final Diciembre - Cat. 1",
+    "start": "26/11/2018",
+    "end": "28/11/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de MICRO y PARASITO II",
+    "materiaId": "069",
+    "materia": "MICRO y PARASITO II",
+    "sedeCat": "00-01",
+    "obs": "Final Diciembre - Cat. 1",
+    "start": "05/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de MICRO y PARASITO II",
+    "materiaId": "069",
+    "materia": "MICRO y PARASITO II",
+    "sedeCat": "00-01",
+    "obs": "Final Diciembre - Cat. 1",
+    "start": "30/11/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "materiaId": "013",
+    "materia": "HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "sedeCat": "00-01",
+    "obs": "2do. Final Diciembre 2018",
+    "start": "27/11/2018",
+    "end": "03/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "materiaId": "013",
+    "materia": "HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "sedeCat": "00-01",
+    "obs": "2do. Final Diciembre 2018",
+    "start": "10/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "materiaId": "013",
+    "materia": "HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "sedeCat": "00-01",
+    "obs": "2do. Final Diciembre 2018",
+    "start": "06/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "materiaId": "013",
+    "materia": "HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "sedeCat": "00-02",
+    "obs": "2do. Final Diciembre 2018",
+    "start": "27/11/2018",
+    "end": "03/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "materiaId": "013",
+    "materia": "HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "sedeCat": "00-02",
+    "obs": "2do. Final Diciembre 2018",
+    "start": "10/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "materiaId": "013",
+    "materia": "HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "sedeCat": "00-02",
+    "obs": "2do. Final Diciembre 2018",
+    "start": "06/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "materiaId": "013",
+    "materia": "HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "sedeCat": "00-03",
+    "obs": "2do. Final Diciembre 2018",
+    "start": "27/11/2018",
+    "end": "03/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "materiaId": "013",
+    "materia": "HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "sedeCat": "00-03",
+    "obs": "2do. Final Diciembre 2018",
+    "start": "10/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "materiaId": "013",
+    "materia": "HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "sedeCat": "00-03",
+    "obs": "2do. Final Diciembre 2018",
+    "start": "06/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final PATOLOGIA II",
+    "materiaId": "028",
+    "materia": "PATOLOGIA II",
+    "sedeCat": "00-00",
+    "obs": "13:30hs",
+    "start": "28/11/2018",
+    "end": "30/11/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de PATOLOGIA II",
+    "materiaId": "028",
+    "materia": "PATOLOGIA II",
+    "sedeCat": "00-00",
+    "obs": "13:30hs",
+    "start": "07/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de PATOLOGIA II",
+    "materiaId": "028",
+    "materia": "PATOLOGIA II",
+    "sedeCat": "00-00",
+    "obs": "13:30hs",
+    "start": "04/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-02",
+    "obs": "Final Rotacion Diciembre 2018 Dra. Bignone/Sabatini 9:00 hs",
+    "start": "29/11/2018",
+    "end": "03/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-02",
+    "obs": "Final Rotacion Diciembre 2018 Dra. Bignone/Sabatini 9:00 hs",
+    "start": "18/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-02",
+    "obs": "Final Rotacion Diciembre 2018 Dra. Bignone/Sabatini 9:00 hs",
+    "start": "05/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre 2018",
+    "start": "29/11/2018",
+    "end": "02/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre 2018",
+    "start": "05/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre 2018",
+    "start": "03/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-02",
+    "obs": "Final Diciembre 2018 Dra. Bignone/Lerma/Rojas 17:00 hs",
+    "start": "29/11/2018",
+    "end": "03/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-02",
+    "obs": "Final Diciembre 2018 Dra. Bignone/Lerma/Rojas 17:00 hs",
+    "start": "20/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-02",
+    "obs": "Final Diciembre 2018 Dra. Bignone/Lerma/Rojas 17:00 hs",
+    "start": "05/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre 2018",
+    "start": "29/11/2018",
+    "end": "02/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre 2018",
+    "start": "05/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre 2018",
+    "start": "03/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final INMUNOLOGIA HUMANA",
+    "materiaId": "049",
+    "materia": "INMUNOLOGIA HUMANA",
+    "sedeCat": "00-01",
+    "obs": "1er. Final Diciembre 2018",
+    "start": "29/11/2018",
+    "end": "04/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de INMUNOLOGIA HUMANA",
+    "materiaId": "049",
+    "materia": "INMUNOLOGIA HUMANA",
+    "sedeCat": "00-01",
+    "obs": "1er. Final Diciembre 2018",
+    "start": "07/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de INMUNOLOGIA HUMANA",
+    "materiaId": "049",
+    "materia": "INMUNOLOGIA HUMANA",
+    "sedeCat": "00-01",
+    "obs": "1er. Final Diciembre 2018",
+    "start": "06/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-01",
+    "obs": "2do. Final Diciembre 2018",
+    "start": "30/11/2018",
+    "end": "04/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-01",
+    "obs": "2do. Final Diciembre 2018",
+    "start": "10/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-01",
+    "obs": "2do. Final Diciembre 2018",
+    "start": "06/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-02",
+    "obs": "Final Diciembre",
+    "start": "30/11/2018",
+    "end": "04/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-02",
+    "obs": "Final Diciembre",
+    "start": "10/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-02",
+    "obs": "Final Diciembre",
+    "start": "06/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre",
+    "start": "30/11/2018",
+    "end": "04/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre",
+    "start": "10/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre",
+    "start": "06/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FISIOLOGIA Y BIOFISICA",
+    "materiaId": "026",
+    "materia": "FISIOLOGIA Y BIOFISICA",
+    "sedeCat": "00-01",
+    "obs": "Final Diciembre",
+    "start": "30/11/2018",
+    "end": "04/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FISIOLOGIA Y BIOFISICA",
+    "materiaId": "026",
+    "materia": "FISIOLOGIA Y BIOFISICA",
+    "sedeCat": "00-01",
+    "obs": "Final Diciembre",
+    "start": "10/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FISIOLOGIA Y BIOFISICA",
+    "materiaId": "026",
+    "materia": "FISIOLOGIA Y BIOFISICA",
+    "sedeCat": "00-01",
+    "obs": "Final Diciembre",
+    "start": "06/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final QUIMICA BIOLOGICA II - BIOQUIM",
+    "materiaId": "023",
+    "materia": "QUIMICA BIOLOGICA II - BIOQUIM",
+    "sedeCat": "00-00",
+    "obs": "2do. Final Diciembre 2018",
+    "start": "30/11/2018",
+    "end": "07/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de QUIMICA BIOLOGICA II - BIOQUIM",
+    "materiaId": "023",
+    "materia": "QUIMICA BIOLOGICA II - BIOQUIM",
+    "sedeCat": "00-00",
+    "obs": "2do. Final Diciembre 2018",
+    "start": "14/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de QUIMICA BIOLOGICA II - BIOQUIM",
+    "materiaId": "023",
+    "materia": "QUIMICA BIOLOGICA II - BIOQUIM",
+    "sedeCat": "00-00",
+    "obs": "2do. Final Diciembre 2018",
+    "start": "11/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final PATOLOGIA I",
+    "materiaId": "027",
+    "materia": "PATOLOGIA I",
+    "sedeCat": "00-00",
+    "obs": "Final Diciembre",
+    "start": "01/12/2018",
+    "end": "03/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de PATOLOGIA I",
+    "materiaId": "027",
+    "materia": "PATOLOGIA I",
+    "sedeCat": "00-00",
+    "obs": "Final Diciembre",
+    "start": "10/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de PATOLOGIA I",
+    "materiaId": "027",
+    "materia": "PATOLOGIA I",
+    "sedeCat": "00-00",
+    "obs": "Final Diciembre",
+    "start": "05/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-01",
+    "obs": "1er. Final Diciembre 2018",
+    "start": "03/12/2018",
+    "end": "05/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-01",
+    "obs": "1er. Final Diciembre 2018",
+    "start": "10/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-01",
+    "obs": "1er. Final Diciembre 2018",
+    "start": "06/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-01",
+    "obs": "1er. Final Diciembre 2018",
+    "start": "03/12/2018",
+    "end": "05/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-01",
+    "obs": "1er. Final Diciembre 2018",
+    "start": "10/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-01",
+    "obs": "1er. Final Diciembre 2018",
+    "start": "06/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final MICRO Y PARASITO I",
+    "materiaId": "059",
+    "materia": "MICRO Y PARASITO I",
+    "sedeCat": "00-01",
+    "obs": "Final Diciembre - Cat. 1",
+    "start": "04/12/2018",
+    "end": "06/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de MICRO Y PARASITO I",
+    "materiaId": "059",
+    "materia": "MICRO Y PARASITO I",
+    "sedeCat": "00-01",
+    "obs": "Final Diciembre - Cat. 1",
+    "start": "11/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de MICRO Y PARASITO I",
+    "materiaId": "059",
+    "materia": "MICRO Y PARASITO I",
+    "sedeCat": "00-01",
+    "obs": "Final Diciembre - Cat. 1",
+    "start": "07/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final MICRO y PARASITO II",
+    "materiaId": "069",
+    "materia": "MICRO y PARASITO II",
+    "sedeCat": "00-01",
+    "obs": "Final Diciembre - Cat. 1",
+    "start": "04/12/2018",
+    "end": "06/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de MICRO y PARASITO II",
+    "materiaId": "069",
+    "materia": "MICRO y PARASITO II",
+    "sedeCat": "00-01",
+    "obs": "Final Diciembre - Cat. 1",
+    "start": "12/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de MICRO y PARASITO II",
+    "materiaId": "069",
+    "materia": "MICRO y PARASITO II",
+    "sedeCat": "00-01",
+    "obs": "Final Diciembre - Cat. 1",
+    "start": "07/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final PATOLOGIA II",
+    "materiaId": "028",
+    "materia": "PATOLOGIA II",
+    "sedeCat": "00-00",
+    "obs": "13:30hs",
+    "start": "05/12/2018",
+    "end": "07/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de PATOLOGIA II",
+    "materiaId": "028",
+    "materia": "PATOLOGIA II",
+    "sedeCat": "00-00",
+    "obs": "13:30hs",
+    "start": "14/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de PATOLOGIA II",
+    "materiaId": "028",
+    "materia": "PATOLOGIA II",
+    "sedeCat": "00-00",
+    "obs": "13:30hs",
+    "start": "11/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-02",
+    "obs": "Final 2018 (académica) - Dr. Diez 17 hs",
+    "start": "06/12/2018",
+    "end": "07/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-02",
+    "obs": "Final 2018 (académica) - Dr. Diez 17 hs",
+    "start": "17/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-02",
+    "obs": "Final 2018 (académica) - Dr. Diez 17 hs",
+    "start": "11/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre 2018",
+    "start": "06/12/2018",
+    "end": "09/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre 2018",
+    "start": "12/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre 2018",
+    "start": "10/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-02",
+    "obs": "Final 2018 (académica) - Dr. Diez 17 hs",
+    "start": "06/12/2018",
+    "end": "07/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-02",
+    "obs": "Final 2018 (académica) - Dr. Diez 17 hs",
+    "start": "17/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-02",
+    "obs": "Final 2018 (académica) - Dr. Diez 17 hs",
+    "start": "11/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre 2018",
+    "start": "06/12/2018",
+    "end": "09/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre 2018",
+    "start": "12/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre 2018",
+    "start": "10/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-01",
+    "obs": "3er. Final Diciembre 2018",
+    "start": "07/12/2018",
+    "end": "11/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-01",
+    "obs": "3er. Final Diciembre 2018",
+    "start": "17/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-01",
+    "obs": "3er. Final Diciembre 2018",
+    "start": "13/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-02",
+    "obs": "Final Diciembre",
+    "start": "07/12/2018",
+    "end": "11/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-02",
+    "obs": "Final Diciembre",
+    "start": "17/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-02",
+    "obs": "Final Diciembre",
+    "start": "13/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre",
+    "start": "07/12/2018",
+    "end": "11/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre",
+    "start": "17/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre",
+    "start": "13/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final INMUNOLOGIA HUMANA",
+    "materiaId": "049",
+    "materia": "INMUNOLOGIA HUMANA",
+    "sedeCat": "00-01",
+    "obs": "2do. Final 2018",
+    "start": "07/12/2018",
+    "end": "10/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de INMUNOLOGIA HUMANA",
+    "materiaId": "049",
+    "materia": "INMUNOLOGIA HUMANA",
+    "sedeCat": "00-01",
+    "obs": "2do. Final 2018",
+    "start": "14/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de INMUNOLOGIA HUMANA",
+    "materiaId": "049",
+    "materia": "INMUNOLOGIA HUMANA",
+    "sedeCat": "00-01",
+    "obs": "2do. Final 2018",
+    "start": "12/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final PATOLOGIA I",
+    "materiaId": "027",
+    "materia": "PATOLOGIA I",
+    "sedeCat": "00-00",
+    "obs": "Final Diciembre",
+    "start": "08/12/2018",
+    "end": "10/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de PATOLOGIA I",
+    "materiaId": "027",
+    "materia": "PATOLOGIA I",
+    "sedeCat": "00-00",
+    "obs": "Final Diciembre",
+    "start": "17/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de PATOLOGIA I",
+    "materiaId": "027",
+    "materia": "PATOLOGIA I",
+    "sedeCat": "00-00",
+    "obs": "Final Diciembre",
+    "start": "12/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-01",
+    "obs": "2do. Final Diciembre 2018",
+    "start": "10/12/2018",
+    "end": "12/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-01",
+    "obs": "2do. Final Diciembre 2018",
+    "start": "17/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-01",
+    "obs": "2do. Final Diciembre 2018",
+    "start": "13/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-01",
+    "obs": "2do. Final Diciembre 2018",
+    "start": "10/12/2018",
+    "end": "12/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-01",
+    "obs": "2do. Final Diciembre 2018",
+    "start": "17/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-01",
+    "obs": "2do. Final Diciembre 2018",
+    "start": "13/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final MICRO Y PARASITO I",
+    "materiaId": "059",
+    "materia": "MICRO Y PARASITO I",
+    "sedeCat": "00-01",
+    "obs": "Final Diciembre - Cat. 1",
+    "start": "10/12/2018",
+    "end": "12/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de MICRO Y PARASITO I",
+    "materiaId": "059",
+    "materia": "MICRO Y PARASITO I",
+    "sedeCat": "00-01",
+    "obs": "Final Diciembre - Cat. 1",
+    "start": "18/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de MICRO Y PARASITO I",
+    "materiaId": "059",
+    "materia": "MICRO Y PARASITO I",
+    "sedeCat": "00-01",
+    "obs": "Final Diciembre - Cat. 1",
+    "start": "14/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final MICRO y PARASITO II",
+    "materiaId": "069",
+    "materia": "MICRO y PARASITO II",
+    "sedeCat": "00-01",
+    "obs": "Final Diciembre - Cat. 1",
+    "start": "10/12/2018",
+    "end": "12/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de MICRO y PARASITO II",
+    "materiaId": "069",
+    "materia": "MICRO y PARASITO II",
+    "sedeCat": "00-01",
+    "obs": "Final Diciembre - Cat. 1",
+    "start": "19/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de MICRO y PARASITO II",
+    "materiaId": "069",
+    "materia": "MICRO y PARASITO II",
+    "sedeCat": "00-01",
+    "obs": "Final Diciembre - Cat. 1",
+    "start": "14/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-02",
+    "obs": "Final Diciembre 2018 (sólo rotacion) -Dr. Diez 17 hs",
+    "start": "12/12/2018",
+    "end": "13/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-02",
+    "obs": "Final Diciembre 2018 (sólo rotacion) -Dr. Diez 17 hs",
+    "start": "21/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-02",
+    "obs": "Final Diciembre 2018 (sólo rotacion) -Dr. Diez 17 hs",
+    "start": "17/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-02",
+    "obs": "Final Diciembre 2018 (sólo rotacion) -Dr. Diez 17 hs",
+    "start": "12/12/2018",
+    "end": "13/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-02",
+    "obs": "Final Diciembre 2018 (sólo rotacion) -Dr. Diez 17 hs",
+    "start": "26/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-02",
+    "obs": "Final Diciembre 2018 (sólo rotacion) -Dr. Diez 17 hs",
+    "start": "17/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final INMUNOLOGIA HUMANA",
+    "materiaId": "049",
+    "materia": "INMUNOLOGIA HUMANA",
+    "sedeCat": "00-01",
+    "obs": "3er. Final Diciembre 2018",
+    "start": "12/12/2018",
+    "end": "14/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de INMUNOLOGIA HUMANA",
+    "materiaId": "049",
+    "materia": "INMUNOLOGIA HUMANA",
+    "sedeCat": "00-01",
+    "obs": "3er. Final Diciembre 2018",
+    "start": "18/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de INMUNOLOGIA HUMANA",
+    "materiaId": "049",
+    "materia": "INMUNOLOGIA HUMANA",
+    "sedeCat": "00-01",
+    "obs": "3er. Final Diciembre 2018",
+    "start": "15/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final PATOLOGIA II",
+    "materiaId": "028",
+    "materia": "PATOLOGIA II",
+    "sedeCat": "00-00",
+    "obs": "13:30 hs",
+    "start": "12/12/2018",
+    "end": "14/12/2018",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de PATOLOGIA II",
+    "materiaId": "028",
+    "materia": "PATOLOGIA II",
+    "sedeCat": "00-00",
+    "obs": "13:30 hs",
+    "start": "21/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de PATOLOGIA II",
+    "materiaId": "028",
+    "materia": "PATOLOGIA II",
+    "sedeCat": "00-00",
+    "obs": "13:30 hs",
+    "start": "18/12/2018",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-01",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dr. Ferrari",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-01",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dr. Ferrari",
+    "start": "27/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-01",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dr. Ferrari",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-01",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Dr. Ferrari",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-01",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Dr. Ferrari",
+    "start": "20/03/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-01",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Dr. Ferrari",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-02",
+    "obs": "1er. Final Febreo/Marzo 2019 Prof. Dra. Serebriany",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-02",
+    "obs": "1er. Final Febreo/Marzo 2019 Prof. Dra. Serebriany",
+    "start": "25/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-02",
+    "obs": "1er. Final Febreo/Marzo 2019 Prof. Dra. Serebriany",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-02",
+    "obs": "2do. Final Febreo/Marzo 2019 Prof. Dra. Serebriany",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-02",
+    "obs": "2do. Final Febreo/Marzo 2019 Prof. Dra. Serebriany",
+    "start": "18/03/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-02",
+    "obs": "2do. Final Febreo/Marzo 2019 Prof. Dra. Serebriany",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-03",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dr. Stagnaro",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-03",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dr. Stagnaro",
+    "start": "01/03/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-03",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dr. Stagnaro",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-03",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Dr. Stagnaro",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-03",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Dr. Stagnaro",
+    "start": "22/03/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-03",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Dr. Stagnaro",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-04",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof.  Dr. Liszczynski",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-04",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof.  Dr. Liszczynski",
+    "start": "26/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-04",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof.  Dr. Liszczynski",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-04",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof.  Dr. Liszczynski",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-04",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof.  Dr. Liszczynski",
+    "start": "19/03/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-04",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof.  Dr. Liszczynski",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-05",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dr. Brusco",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-05",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dr. Brusco",
+    "start": "25/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-05",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dr. Brusco",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-05",
+    "obs": "2do. Final Febreo/Marzo 2019 Prof. Dr. Brusco",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-05",
+    "obs": "2do. Final Febreo/Marzo 2019 Prof. Dr. Brusco",
+    "start": "18/03/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-05",
+    "obs": "2do. Final Febreo/Marzo 2019 Prof. Dr. Brusco",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-09",
+    "obs": "1er. Final Febrero/Marzo 2019 Dr. Brusco",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-09",
+    "obs": "1er. Final Febrero/Marzo 2019 Dr. Brusco",
+    "start": "27/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-09",
+    "obs": "1er. Final Febrero/Marzo 2019 Dr. Brusco",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-09",
+    "obs": "2do. Final Febrero/Marzo 2019 Dr. Brusco",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-09",
+    "obs": "2do. Final Febrero/Marzo 2019 Dr. Brusco",
+    "start": "20/03/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-09",
+    "obs": "2do. Final Febrero/Marzo 2019 Dr. Brusco",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-11",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dar. Zalman",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-11",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dar. Zalman",
+    "start": "01/03/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-11",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dar. Zalman",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-11",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Dar. Zalman",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-11",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Dar. Zalman",
+    "start": "22/03/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-11",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Dar. Zalman",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-17",
+    "obs": "1er.. Final Febrero/Marzo 2019 Dr. Ilutovich",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-17",
+    "obs": "1er.. Final Febrero/Marzo 2019 Dr. Ilutovich",
+    "start": "28/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-17",
+    "obs": "1er.. Final Febrero/Marzo 2019 Dr. Ilutovich",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-17",
+    "obs": "2do. Final Febrero/Marzo 2019 Dr. Ilutovich",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-17",
+    "obs": "2do. Final Febrero/Marzo 2019 Dr. Ilutovich",
+    "start": "21/03/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-17",
+    "obs": "2do. Final Febrero/Marzo 2019 Dr. Ilutovich",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-18",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Tit. Dr. Brusco",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-18",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Tit. Dr. Brusco",
+    "start": "27/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-18",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Tit. Dr. Brusco",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-18",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Tit. Dr. Brusco",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-18",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Tit. Dr. Brusco",
+    "start": "20/03/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "00-18",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Tit. Dr. Brusco",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "01-15",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dra. Manfredi de Poderoso",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "ALVAREZ"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "01-15",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dra. Manfredi de Poderoso",
+    "start": "27/02/2019",
+    "end": null,
+    "sede": "ALVAREZ"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "01-15",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dra. Manfredi de Poderoso",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "ALVAREZ"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "01-15",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Dra. Manfredi de Poderoso",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "ALVAREZ"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "01-15",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Dra. Manfredi de Poderoso",
+    "start": "20/03/2019",
+    "end": null,
+    "sede": "ALVAREZ"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "01-15",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Dra. Manfredi de Poderoso",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "ALVAREZ"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "01-25",
+    "obs": "1er. Final Febrero/Marzo 2019 Dr. Fantin",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "ALVAREZ"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "01-25",
+    "obs": "1er. Final Febrero/Marzo 2019 Dr. Fantin",
+    "start": "25/02/2019",
+    "end": null,
+    "sede": "ALVAREZ"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "01-25",
+    "obs": "1er. Final Febrero/Marzo 2019 Dr. Fantin",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "ALVAREZ"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "01-25",
+    "obs": "2do. Final Febrero/Marzo 2019 Dr. Fantin",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "ALVAREZ"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "01-25",
+    "obs": "2do. Final Febrero/Marzo 2019 Dr. Fantin",
+    "start": "18/03/2019",
+    "end": null,
+    "sede": "ALVAREZ"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "01-25",
+    "obs": "2do. Final Febrero/Marzo 2019 Dr. Fantin",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "ALVAREZ"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "02-06",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Tit. Dr. Doria Medina",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "DE CLINICAS"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "02-06",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Tit. Dr. Doria Medina",
+    "start": "28/02/2019",
+    "end": null,
+    "sede": "DE CLINICAS"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "02-06",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Tit. Dr. Doria Medina",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "DE CLINICAS"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "02-06",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Tit. Dr. Doria Medina",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "DE CLINICAS"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "02-06",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Tit. Dr. Doria Medina",
+    "start": "21/03/2019",
+    "end": null,
+    "sede": "DE CLINICAS"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "02-06",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Tit. Dr. Doria Medina",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "DE CLINICAS"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "02-22",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Tit. Dr. Brusco",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "DE CLINICAS"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "02-22",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Tit. Dr. Brusco",
+    "start": "28/02/2019",
+    "end": null,
+    "sede": "DE CLINICAS"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "02-22",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Tit. Dr. Brusco",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "DE CLINICAS"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "02-22",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Tit. Dr. Brusco",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "DE CLINICAS"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "02-22",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Tit. Dr. Brusco",
+    "start": "21/03/2019",
+    "end": null,
+    "sede": "DE CLINICAS"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "02-22",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Tit. Dr. Brusco",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "DE CLINICAS"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "03-01",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dr.Brusco",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "MILSTEIN (ex Frances)"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "03-01",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dr.Brusco",
+    "start": "26/02/2019",
+    "end": null,
+    "sede": "MILSTEIN (ex Frances)"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "03-01",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dr.Brusco",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "MILSTEIN (ex Frances)"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "03-01",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Dr.Brusco",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "MILSTEIN (ex Frances)"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "03-01",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Dr.Brusco",
+    "start": "19/03/2019",
+    "end": null,
+    "sede": "MILSTEIN (ex Frances)"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "03-01",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Dr.Brusco",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "MILSTEIN (ex Frances)"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "09-40",
+    "obs": "1er. Final Febrero/Marzo 2019 Dra. Novas",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "DE NIÑOS"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "09-40",
+    "obs": "1er. Final Febrero/Marzo 2019 Dra. Novas",
+    "start": "25/02/2019",
+    "end": null,
+    "sede": "DE NIÑOS"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "09-40",
+    "obs": "1er. Final Febrero/Marzo 2019 Dra. Novas",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "DE NIÑOS"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "09-40",
+    "obs": "2do. Final Febrero/Marzo 2019 Dra. Novas",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "DE NIÑOS"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "09-40",
+    "obs": "2do. Final Febrero/Marzo 2019 Dra. Novas",
+    "start": "18/03/2019",
+    "end": null,
+    "sede": "DE NIÑOS"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "09-40",
+    "obs": "2do. Final Febrero/Marzo 2019 Dra. Novas",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "DE NIÑOS"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "16-41",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dr. Guinjoan",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "Inst.Fleni"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "16-41",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dr. Guinjoan",
+    "start": "27/02/2019",
+    "end": null,
+    "sede": "Inst.Fleni"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "16-41",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dr. Guinjoan",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "Inst.Fleni"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "16-41",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Dr. Guinjoan",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "Inst.Fleni"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "16-41",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Dr. Guinjoan",
+    "start": "20/03/2019",
+    "end": null,
+    "sede": "Inst.Fleni"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "16-41",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Dr. Guinjoan",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "Inst.Fleni"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "17-00",
+    "obs": "1er. Final Febrero/Marzo 2019 Doc. Asoc. Izrailit",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "LANUS"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "17-00",
+    "obs": "1er. Final Febrero/Marzo 2019 Doc. Asoc. Izrailit",
+    "start": "01/03/2019",
+    "end": null,
+    "sede": "LANUS"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "17-00",
+    "obs": "1er. Final Febrero/Marzo 2019 Doc. Asoc. Izrailit",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "LANUS"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "17-00",
+    "obs": "2do. Final Febrero/Marzo 2019 Doc. Asoc. Izrailit",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "LANUS"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "17-00",
+    "obs": "2do. Final Febrero/Marzo 2019 Doc. Asoc. Izrailit",
+    "start": "22/03/2019",
+    "end": null,
+    "sede": "LANUS"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "17-00",
+    "obs": "2do. Final Febrero/Marzo 2019 Doc. Asoc. Izrailit",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "LANUS"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "24-16",
+    "obs": "Final Feb-Marzo 2019. Prof Dr.Edgardo Knopoff",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "PIÑERO"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "24-16",
+    "obs": "Final Feb-Marzo 2019. Prof Dr.Edgardo Knopoff",
+    "start": "21/03/2019",
+    "end": null,
+    "sede": "PIÑERO"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "24-16",
+    "obs": "Final Feb-Marzo 2019. Prof Dr.Edgardo Knopoff",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "PIÑERO"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "24-16",
+    "obs": "Final Feb-Marzo 2019. Prof Dr.Edgardo Knopoff",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "PIÑERO"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "24-16",
+    "obs": "Final Feb-Marzo 2019. Prof Dr.Edgardo Knopoff",
+    "start": "28/02/2019",
+    "end": null,
+    "sede": "PIÑERO"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "24-16",
+    "obs": "Final Feb-Marzo 2019. Prof Dr.Edgardo Knopoff",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "PIÑERO"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "24-24",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dra. Gofanovich Baron",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "PIÑERO"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "24-24",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dra. Gofanovich Baron",
+    "start": "28/02/2019",
+    "end": null,
+    "sede": "PIÑERO"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "24-24",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dra. Gofanovich Baron",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "PIÑERO"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "24-24",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Dra. Gofanovich Baron",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "PIÑERO"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "24-24",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Dra. Gofanovich Baron",
+    "start": "21/03/2019",
+    "end": null,
+    "sede": "PIÑERO"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "24-24",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Dra. Gofanovich Baron",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "PIÑERO"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "26-26",
+    "obs": "1er. Final Febrero/Marzo 2019 Doc. Asoc. Kennel",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "TIGRE"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "26-26",
+    "obs": "1er. Final Febrero/Marzo 2019 Doc. Asoc. Kennel",
+    "start": "25/02/2019",
+    "end": null,
+    "sede": "TIGRE"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "26-26",
+    "obs": "1er. Final Febrero/Marzo 2019 Doc. Asoc. Kennel",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "TIGRE"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "26-26",
+    "obs": "2do. Final Febrero/Marzo 2019 Doc. Asoc. Kennel",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "TIGRE"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "26-26",
+    "obs": "2do. Final Febrero/Marzo 2019 Doc. Asoc. Kennel",
+    "start": "18/03/2019",
+    "end": null,
+    "sede": "TIGRE"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "26-26",
+    "obs": "2do. Final Febrero/Marzo 2019 Doc. Asoc. Kennel",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "TIGRE"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "29-00",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Cons. Losso",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "RAMOS MEJIA"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "29-00",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Cons. Losso",
+    "start": "20/03/2019",
+    "end": null,
+    "sede": "RAMOS MEJIA"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "29-00",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Cons. Losso",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "RAMOS MEJIA"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "29-00",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Cons. Losso",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "RAMOS MEJIA"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "29-00",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Cons. Losso",
+    "start": "27/02/2019",
+    "end": null,
+    "sede": "RAMOS MEJIA"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "29-00",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Cons. Losso",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "RAMOS MEJIA"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "29-01",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Cons. Losso",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "RAMOS MEJIA"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "29-01",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Cons. Losso",
+    "start": "01/03/2019",
+    "end": null,
+    "sede": "RAMOS MEJIA"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "29-01",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Cons. Losso",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "RAMOS MEJIA"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "29-01",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Cons. Losso",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "RAMOS MEJIA"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "29-01",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Cons. Losso",
+    "start": "22/03/2019",
+    "end": null,
+    "sede": "RAMOS MEJIA"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "29-01",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Cons. Losso",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "RAMOS MEJIA"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "30-27",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dr. Stagnaro",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "SAN ISIDRO"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "30-27",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dr. Stagnaro",
+    "start": "27/02/2019",
+    "end": null,
+    "sede": "SAN ISIDRO"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "30-27",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dr. Stagnaro",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "SAN ISIDRO"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "30-27",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Dr. Stagnaro",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "SAN ISIDRO"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "30-27",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Dr. Stagnaro",
+    "start": "20/03/2019",
+    "end": null,
+    "sede": "SAN ISIDRO"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "30-27",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Dr. Stagnaro",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "SAN ISIDRO"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "38-12",
+    "obs": "1er. Final Febrero/Marzo 2019 Dra. Heller",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "HOUSSAY"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "38-12",
+    "obs": "1er. Final Febrero/Marzo 2019 Dra. Heller",
+    "start": "27/02/2019",
+    "end": null,
+    "sede": "HOUSSAY"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "38-12",
+    "obs": "1er. Final Febrero/Marzo 2019 Dra. Heller",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "HOUSSAY"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "38-12",
+    "obs": "2do. Final Febrero/Marzo 2019 Dra. Heller",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "HOUSSAY"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "38-12",
+    "obs": "2do. Final Febrero/Marzo 2019 Dra. Heller",
+    "start": "20/03/2019",
+    "end": null,
+    "sede": "HOUSSAY"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "38-12",
+    "obs": "2do. Final Febrero/Marzo 2019 Dra. Heller",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "HOUSSAY"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "41-00",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Adj. Dr. Ulnik",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "PIROVANO"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "41-00",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Adj. Dr. Ulnik",
+    "start": "26/02/2019",
+    "end": null,
+    "sede": "PIROVANO"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "41-00",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Adj. Dr. Ulnik",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "PIROVANO"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "41-00",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Adj. Dr. Ulnik",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "PIROVANO"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "41-00",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Adj. Dr. Ulnik",
+    "start": "19/03/2019",
+    "end": null,
+    "sede": "PIROVANO"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "41-00",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Adj. Dr. Ulnik",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "PIROVANO"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "53-01",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Adj. Dr. Persano",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "BORDA"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "53-01",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Adj. Dr. Persano",
+    "start": "25/02/2019",
+    "end": null,
+    "sede": "BORDA"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "53-01",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Adj. Dr. Persano",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "BORDA"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "53-01",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Adj. Dr. Persano",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "BORDA"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "53-01",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Adj. Dr. Persano",
+    "start": "18/03/2019",
+    "end": null,
+    "sede": "BORDA"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "53-01",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Adj. Dr. Persano",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "BORDA"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "53-02",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Adj. Dr. Persano",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "BORDA"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "53-02",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Adj. Dr. Persano",
+    "start": "27/02/2019",
+    "end": null,
+    "sede": "BORDA"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "53-02",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Adj. Dr. Persano",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "BORDA"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "53-02",
+    "obs": "2do.  Final Febrero/Marzo 2019 Prof. Adj. Dr. Persano",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "BORDA"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "53-02",
+    "obs": "2do.  Final Febrero/Marzo 2019 Prof. Adj. Dr. Persano",
+    "start": "30/03/2019",
+    "end": null,
+    "sede": "BORDA"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "53-02",
+    "obs": "2do.  Final Febrero/Marzo 2019 Prof. Adj. Dr. Persano",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "BORDA"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "53-03",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Adj. Dr. Persano",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "BORDA"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "53-03",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Adj. Dr. Persano",
+    "start": "01/03/2019",
+    "end": null,
+    "sede": "BORDA"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "53-03",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Adj. Dr. Persano",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "BORDA"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "53-03",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Adj. Dr. Persano",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "BORDA"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "53-03",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Adj. Dr. Persano",
+    "start": "22/03/2019",
+    "end": null,
+    "sede": "BORDA"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "53-03",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Adj. Dr. Persano",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "BORDA"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "53-04",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dr. Knopoff/Prof. Honig",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "BORDA"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "53-04",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dr. Knopoff/Prof. Honig",
+    "start": "26/02/2019",
+    "end": null,
+    "sede": "BORDA"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "53-04",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dr. Knopoff/Prof. Honig",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "BORDA"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "53-04",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Dr. Knopoff/Prof. Honig",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "BORDA"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "53-04",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Dr. Knopoff/Prof. Honig",
+    "start": "19/03/2019",
+    "end": null,
+    "sede": "BORDA"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "53-04",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Dr. Knopoff/Prof. Honig",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "BORDA"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "61-00",
+    "obs": "1er. Final Febrero/Marzo 2019 Dra. Martinez",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "MOYANO"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "61-00",
+    "obs": "1er. Final Febrero/Marzo 2019 Dra. Martinez",
+    "start": "26/02/2019",
+    "end": null,
+    "sede": "MOYANO"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "61-00",
+    "obs": "1er. Final Febrero/Marzo 2019 Dra. Martinez",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "MOYANO"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "61-00",
+    "obs": "2do. Final Febrero/Marzo 2019 Dra. Martinez",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "MOYANO"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "61-00",
+    "obs": "2do. Final Febrero/Marzo 2019 Dra. Martinez",
+    "start": "19/03/2019",
+    "end": null,
+    "sede": "MOYANO"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "61-00",
+    "obs": "2do. Final Febrero/Marzo 2019 Dra. Martinez",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "MOYANO"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "61-01",
+    "obs": "1er. Final Febrero/Marzo 2019 Dra. Martinez",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "MOYANO"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "61-01",
+    "obs": "1er. Final Febrero/Marzo 2019 Dra. Martinez",
+    "start": "26/02/2019",
+    "end": null,
+    "sede": "MOYANO"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "61-01",
+    "obs": "1er. Final Febrero/Marzo 2019 Dra. Martinez",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "MOYANO"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "61-01",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Reg. Adj. Dr. Berretoni",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "MOYANO"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "61-01",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Reg. Adj. Dr. Berretoni",
+    "start": "19/03/2019",
+    "end": null,
+    "sede": "MOYANO"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "61-01",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Reg. Adj. Dr. Berretoni",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "MOYANO"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "61-02",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Reg. Adj. Dr. Berretoni",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "MOYANO"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "61-02",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Reg. Adj. Dr. Berretoni",
+    "start": "27/02/2019",
+    "end": null,
+    "sede": "MOYANO"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "61-02",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Reg. Adj. Dr. Berretoni",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "MOYANO"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "61-02",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Reg. Adj. Dr. Berretoni",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "MOYANO"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "61-02",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Reg. Adj. Dr. Berretoni",
+    "start": "20/03/2019",
+    "end": null,
+    "sede": "MOYANO"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "61-02",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Reg. Adj. Dr. Berretoni",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "MOYANO"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "61-03",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Reg. Adj. Dr. Berretoni",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "MOYANO"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "61-03",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Reg. Adj. Dr. Berretoni",
+    "start": "28/02/2019",
+    "end": null,
+    "sede": "MOYANO"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "61-03",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Reg. Adj. Dr. Berretoni",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "MOYANO"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "61-03",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Reg. Adj. Dr. Berretoni",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "MOYANO"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "61-03",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Reg. Adj. Dr. Berretoni",
+    "start": "21/03/2019",
+    "end": null,
+    "sede": "MOYANO"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "61-03",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Reg. Adj. Dr. Berretoni",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "MOYANO"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "62-19",
+    "obs": "1er. Final Febrero/Marzo 2019 Dr. Rubio",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "ALVEAR"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "62-19",
+    "obs": "1er. Final Febrero/Marzo 2019 Dr. Rubio",
+    "start": "25/02/2019",
+    "end": null,
+    "sede": "ALVEAR"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "62-19",
+    "obs": "1er. Final Febrero/Marzo 2019 Dr. Rubio",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "ALVEAR"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "62-19",
+    "obs": "2do. Final Febrero/Marzo 2019 Dr. Rubio",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "ALVEAR"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "62-19",
+    "obs": "2do. Final Febrero/Marzo 2019 Dr. Rubio",
+    "start": "18/03/2019",
+    "end": null,
+    "sede": "ALVEAR"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "62-19",
+    "obs": "2do. Final Febrero/Marzo 2019 Dr. Rubio",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "ALVEAR"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "70-10",
+    "obs": "1er. Final Febrero/Marzo 2019 Dr. Bucahi",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "TOBAR GARCIA"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "70-10",
+    "obs": "1er. Final Febrero/Marzo 2019 Dr. Bucahi",
+    "start": "26/02/2019",
+    "end": null,
+    "sede": "TOBAR GARCIA"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "70-10",
+    "obs": "1er. Final Febrero/Marzo 2019 Dr. Bucahi",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "TOBAR GARCIA"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "70-10",
+    "obs": "2do. Final Febrero/Marzo 2019 Dr. Bucahi",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "TOBAR GARCIA"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "70-10",
+    "obs": "2do. Final Febrero/Marzo 2019 Dr. Bucahi",
+    "start": "19/03/2019",
+    "end": null,
+    "sede": "TOBAR GARCIA"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "70-10",
+    "obs": "2do. Final Febrero/Marzo 2019 Dr. Bucahi",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "TOBAR GARCIA"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "72-07",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof.  Dr. Verruno",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "CTRO. SALUD N 3"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "72-07",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof.  Dr. Verruno",
+    "start": "25/02/2019",
+    "end": null,
+    "sede": "CTRO. SALUD N 3"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "72-07",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof.  Dr. Verruno",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "CTRO. SALUD N 3"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "72-07",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof.  Dr. Verruno",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "CTRO. SALUD N 3"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "72-07",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof.  Dr. Verruno",
+    "start": "18/03/2019",
+    "end": null,
+    "sede": "CTRO. SALUD N 3"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "72-07",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof.  Dr. Verruno",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "CTRO. SALUD N 3"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "73-28",
+    "obs": "1er. Final Febrero/Marzo 2019 Dr. Fadel",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "LANARI"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "73-28",
+    "obs": "1er. Final Febrero/Marzo 2019 Dr. Fadel",
+    "start": "27/02/2019",
+    "end": null,
+    "sede": "LANARI"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "73-28",
+    "obs": "1er. Final Febrero/Marzo 2019 Dr. Fadel",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "LANARI"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "73-28",
+    "obs": "2do. Final Febrero/Marzo 2019 Dr. Fadel",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "LANARI"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "73-28",
+    "obs": "2do. Final Febrero/Marzo 2019 Dr. Fadel",
+    "start": "20/03/2019",
+    "end": null,
+    "sede": "LANARI"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "73-28",
+    "obs": "2do. Final Febrero/Marzo 2019 Dr. Fadel",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "LANARI"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-00",
+    "obs": "1er. Final Febrero/Marzo 2019 Dra. Barreto",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-00",
+    "obs": "1er. Final Febrero/Marzo 2019 Dra. Barreto",
+    "start": "27/02/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-00",
+    "obs": "1er. Final Febrero/Marzo 2019 Dra. Barreto",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-00",
+    "obs": "2do. Final Febrero/Marzo 2019 Dra. Barreto",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-00",
+    "obs": "2do. Final Febrero/Marzo 2019 Dra. Barreto",
+    "start": "20/03/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-00",
+    "obs": "2do. Final Febrero/Marzo 2019 Dra. Barreto",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-08",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof.  Dr. Verruno",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-08",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof.  Dr. Verruno",
+    "start": "25/02/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-08",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof.  Dr. Verruno",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-08",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof.  Dr. Verruno",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-08",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof.  Dr. Verruno",
+    "start": "18/03/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-08",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof.  Dr. Verruno",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-09",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dr. Verruno",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-09",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dr. Verruno",
+    "start": "27/02/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-09",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Dr. Verruno",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-09",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Dr. Verruno",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-09",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Dr. Verruno",
+    "start": "20/03/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-09",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Dr. Verruno",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-10",
+    "obs": "1er. Final Febrero/Marzo 2019 Dr. Bucahi",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-10",
+    "obs": "1er. Final Febrero/Marzo 2019 Dr. Bucahi",
+    "start": "26/02/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-10",
+    "obs": "1er. Final Febrero/Marzo 2019 Dr. Bucahi",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-10",
+    "obs": "2do. Final Febrero/Marzo 2019 Dr. Bucahi",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-10",
+    "obs": "2do. Final Febrero/Marzo 2019 Dr. Bucahi",
+    "start": "19/03/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-10",
+    "obs": "2do. Final Febrero/Marzo 2019 Dr. Bucahi",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-14",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Cons. Dr. Materazzi",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-14",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Cons. Dr. Materazzi",
+    "start": "26/02/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-14",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Cons. Dr. Materazzi",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-14",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Cons. Dr. Materazzi",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-14",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Cons. Dr. Materazzi",
+    "start": "19/03/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-14",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Cons. Dr. Materazzi",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-15",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Cons. Dr. Materazzi",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-15",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Cons. Dr. Materazzi",
+    "start": "28/02/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-15",
+    "obs": "1er. Final Febrero/Marzo 2019 Prof. Cons. Dr. Materazzi",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-15",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Cons. Dr. Materazzi",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-15",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Cons. Dr. Materazzi",
+    "start": "21/03/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-15",
+    "obs": "2do. Final Febrero/Marzo 2019 Prof. Cons. Dr. Materazzi",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-18",
+    "obs": "1er. Final Febrero/Marzo 2019 Doc. Aut. Dr. Rudelir",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-18",
+    "obs": "1er. Final Febrero/Marzo 2019 Doc. Aut. Dr. Rudelir",
+    "start": "28/02/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-18",
+    "obs": "1er. Final Febrero/Marzo 2019 Doc. Aut. Dr. Rudelir",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-18",
+    "obs": "2do. Final Febrero/Marzo 2019 Doc. Aut. Dr. Rudelir",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-18",
+    "obs": "2do. Final Febrero/Marzo 2019 Doc. Aut. Dr. Rudelir",
+    "start": "21/03/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-18",
+    "obs": "2do. Final Febrero/Marzo 2019 Doc. Aut. Dr. Rudelir",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-21",
+    "obs": "1er. Final Febrero/Marzo 2019 Dr. Ilutovich",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-21",
+    "obs": "1er. Final Febrero/Marzo 2019 Dr. Ilutovich",
+    "start": "01/03/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-21",
+    "obs": "1er. Final Febrero/Marzo 2019 Dr. Ilutovich",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-21",
+    "obs": "2do. Final Febrero/Marzo 2019 Dr. Ilutovich",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-21",
+    "obs": "2do. Final Febrero/Marzo 2019 Dr. Ilutovich",
+    "start": "22/03/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "85-21",
+    "obs": "2do. Final Febrero/Marzo 2019 Dr. Ilutovich",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "SALUD MENTAL"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "92-00",
+    "obs": "1er. Final Febrero/Marzo 2019 Dra. Liliana Gonzalez",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "Clinica DHARMA"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "92-00",
+    "obs": "1er. Final Febrero/Marzo 2019 Dra. Liliana Gonzalez",
+    "start": "01/03/2019",
+    "end": null,
+    "sede": "Clinica DHARMA"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "92-00",
+    "obs": "1er. Final Febrero/Marzo 2019 Dra. Liliana Gonzalez",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "Clinica DHARMA"
+  },
+  {
+    "title": "Inscripción a Final SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "92-00",
+    "obs": "2do. Final Febrero/Marzo 2019 Dra. Liliana Gonzalez",
+    "start": "14/01/2019",
+    "end": "25/01/2019",
+    "sede": "Clinica DHARMA"
+  },
+  {
+    "title": "Final de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "92-00",
+    "obs": "2do. Final Febrero/Marzo 2019 Dra. Liliana Gonzalez",
+    "start": "22/03/2019",
+    "end": null,
+    "sede": "Clinica DHARMA"
+  },
+  {
+    "title": "Ratificación de SALUD MENTAL I - SALUD MENTAL",
+    "materiaId": "036",
+    "materia": "SALUD MENTAL I - SALUD MENTAL",
+    "sedeCat": "92-00",
+    "obs": "2do. Final Febrero/Marzo 2019 Dra. Liliana Gonzalez",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "Clinica DHARMA"
+  },
+  {
+    "title": "Inscripción a Final ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-01",
+    "obs": "1er. Final Febrero 2019",
+    "start": "25/01/2019",
+    "end": "29/01/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-01",
+    "obs": "1er. Final Febrero 2019",
+    "start": "04/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-01",
+    "obs": "1er. Final Febrero 2019",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-02",
+    "obs": "Final Febrero 2019",
+    "start": "25/01/2019",
+    "end": "29/01/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-02",
+    "obs": "Final Febrero 2019",
+    "start": "04/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-02",
+    "obs": "Final Febrero 2019",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-03",
+    "obs": "Final Febrero 2019",
+    "start": "25/01/2019",
+    "end": "29/01/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-03",
+    "obs": "Final Febrero 2019",
+    "start": "04/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-03",
+    "obs": "Final Febrero 2019",
+    "start": "31/01/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FISIOLOGIA Y BIOFISICA",
+    "materiaId": "026",
+    "materia": "FISIOLOGIA Y BIOFISICA",
+    "sedeCat": "00-01",
+    "obs": "Final Febrero 2019",
+    "start": "25/01/2019",
+    "end": "31/01/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FISIOLOGIA Y BIOFISICA",
+    "materiaId": "026",
+    "materia": "FISIOLOGIA Y BIOFISICA",
+    "sedeCat": "00-01",
+    "obs": "Final Febrero 2019",
+    "start": "07/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FISIOLOGIA Y BIOFISICA",
+    "materiaId": "026",
+    "materia": "FISIOLOGIA Y BIOFISICA",
+    "sedeCat": "00-01",
+    "obs": "Final Febrero 2019",
+    "start": "05/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FISIOLOGIA Y BIOFISICA",
+    "materiaId": "026",
+    "materia": "FISIOLOGIA Y BIOFISICA",
+    "sedeCat": "00-02",
+    "obs": "Final Febrero 2019",
+    "start": "25/01/2019",
+    "end": "31/01/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FISIOLOGIA Y BIOFISICA",
+    "materiaId": "026",
+    "materia": "FISIOLOGIA Y BIOFISICA",
+    "sedeCat": "00-02",
+    "obs": "Final Febrero 2019",
+    "start": "06/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FISIOLOGIA Y BIOFISICA",
+    "materiaId": "026",
+    "materia": "FISIOLOGIA Y BIOFISICA",
+    "sedeCat": "00-02",
+    "obs": "Final Febrero 2019",
+    "start": "01/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final QUIMICA BIOLOGICA II - BIOQUIM",
+    "materiaId": "023",
+    "materia": "QUIMICA BIOLOGICA II - BIOQUIM",
+    "sedeCat": "00-00",
+    "obs": "1er. Final Febrero 2019",
+    "start": "31/01/2019",
+    "end": "06/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de QUIMICA BIOLOGICA II - BIOQUIM",
+    "materiaId": "023",
+    "materia": "QUIMICA BIOLOGICA II - BIOQUIM",
+    "sedeCat": "00-00",
+    "obs": "1er. Final Febrero 2019",
+    "start": "14/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de QUIMICA BIOLOGICA II - BIOQUIM",
+    "materiaId": "023",
+    "materia": "QUIMICA BIOLOGICA II - BIOQUIM",
+    "sedeCat": "00-00",
+    "obs": "1er. Final Febrero 2019",
+    "start": "08/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Febrero 2019",
+    "start": "01/02/2019",
+    "end": "03/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Febrero 2019",
+    "start": "08/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Febrero 2019",
+    "start": "04/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Febrero 2019",
+    "start": "01/02/2019",
+    "end": "03/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Febrero 2019",
+    "start": "08/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Febrero 2019",
+    "start": "04/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FISIOLOGIA Y BIOFISICA",
+    "materiaId": "026",
+    "materia": "FISIOLOGIA Y BIOFISICA",
+    "sedeCat": "00-02",
+    "obs": "Final Febrero 2019",
+    "start": "01/02/2019",
+    "end": "02/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FISIOLOGIA Y BIOFISICA",
+    "materiaId": "026",
+    "materia": "FISIOLOGIA Y BIOFISICA",
+    "sedeCat": "00-02",
+    "obs": "Final Febrero 2019",
+    "start": "13/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FISIOLOGIA Y BIOFISICA",
+    "materiaId": "026",
+    "materia": "FISIOLOGIA Y BIOFISICA",
+    "sedeCat": "00-02",
+    "obs": "Final Febrero 2019",
+    "start": "08/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "materiaId": "013",
+    "materia": "HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "sedeCat": "00-01",
+    "obs": "1er. Final Febrero 2019",
+    "start": "01/02/2019",
+    "end": "04/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "materiaId": "013",
+    "materia": "HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "sedeCat": "00-01",
+    "obs": "1er. Final Febrero 2019",
+    "start": "11/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "materiaId": "013",
+    "materia": "HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "sedeCat": "00-01",
+    "obs": "1er. Final Febrero 2019",
+    "start": "05/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "materiaId": "013",
+    "materia": "HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "sedeCat": "00-02",
+    "obs": "1er. Final Febrero 2019",
+    "start": "01/02/2019",
+    "end": "04/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "materiaId": "013",
+    "materia": "HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "sedeCat": "00-02",
+    "obs": "1er. Final Febrero 2019",
+    "start": "11/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "materiaId": "013",
+    "materia": "HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "sedeCat": "00-02",
+    "obs": "1er. Final Febrero 2019",
+    "start": "05/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "materiaId": "013",
+    "materia": "HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "sedeCat": "00-03",
+    "obs": "1er. Final Febrero 2019",
+    "start": "01/02/2019",
+    "end": "04/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "materiaId": "013",
+    "materia": "HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "sedeCat": "00-03",
+    "obs": "1er. Final Febrero 2019",
+    "start": "11/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "materiaId": "013",
+    "materia": "HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "sedeCat": "00-03",
+    "obs": "1er. Final Febrero 2019",
+    "start": "05/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-01",
+    "obs": "2do. Final Febrero 2019",
+    "start": "02/02/2019",
+    "end": "05/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-01",
+    "obs": "2do. Final Febrero 2019",
+    "start": "11/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-01",
+    "obs": "2do. Final Febrero 2019",
+    "start": "07/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-02",
+    "obs": "Final Febrero 2019",
+    "start": "02/02/2019",
+    "end": "05/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-02",
+    "obs": "Final Febrero 2019",
+    "start": "11/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-02",
+    "obs": "Final Febrero 2019",
+    "start": "07/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-03",
+    "obs": "Final Febrero 2019",
+    "start": "02/02/2019",
+    "end": "05/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-03",
+    "obs": "Final Febrero 2019",
+    "start": "11/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de ANATOMIA",
+    "materiaId": "010",
+    "materia": "ANATOMIA",
+    "sedeCat": "00-03",
+    "obs": "Final Febrero 2019",
+    "start": "07/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FISIOLOGIA Y BIOFISICA",
+    "materiaId": "026",
+    "materia": "FISIOLOGIA Y BIOFISICA",
+    "sedeCat": "00-01",
+    "obs": "Final Febrero 2019",
+    "start": "06/02/2019",
+    "end": "11/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FISIOLOGIA Y BIOFISICA",
+    "materiaId": "026",
+    "materia": "FISIOLOGIA Y BIOFISICA",
+    "sedeCat": "00-01",
+    "obs": "Final Febrero 2019",
+    "start": "14/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FISIOLOGIA Y BIOFISICA",
+    "materiaId": "026",
+    "materia": "FISIOLOGIA Y BIOFISICA",
+    "sedeCat": "00-01",
+    "obs": "Final Febrero 2019",
+    "start": "13/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "materiaId": "013",
+    "materia": "HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "sedeCat": "00-01",
+    "obs": "2do. Final Febrero 2019",
+    "start": "06/02/2019",
+    "end": "10/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "materiaId": "013",
+    "materia": "HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "sedeCat": "00-01",
+    "obs": "2do. Final Febrero 2019",
+    "start": "18/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "materiaId": "013",
+    "materia": "HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "sedeCat": "00-01",
+    "obs": "2do. Final Febrero 2019",
+    "start": "12/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "materiaId": "013",
+    "materia": "HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "sedeCat": "00-02",
+    "obs": "2do. Final Febrero 2019",
+    "start": "06/02/2019",
+    "end": "10/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "materiaId": "013",
+    "materia": "HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "sedeCat": "00-02",
+    "obs": "2do. Final Febrero 2019",
+    "start": "18/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "materiaId": "013",
+    "materia": "HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "sedeCat": "00-02",
+    "obs": "2do. Final Febrero 2019",
+    "start": "12/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "materiaId": "013",
+    "materia": "HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "sedeCat": "00-03",
+    "obs": "2do. Final Febrero 2019",
+    "start": "06/02/2019",
+    "end": "10/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "materiaId": "013",
+    "materia": "HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "sedeCat": "00-03",
+    "obs": "2do. Final Febrero 2019",
+    "start": "18/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "materiaId": "013",
+    "materia": "HIST,BIOL.CELULAR,EMBRIO Y GEN",
+    "sedeCat": "00-03",
+    "obs": "2do. Final Febrero 2019",
+    "start": "12/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final INMUNOLOGIA HUMANA",
+    "materiaId": "049",
+    "materia": "INMUNOLOGIA HUMANA",
+    "sedeCat": "00-01",
+    "obs": "Final Febrero 2019",
+    "start": "06/02/2019",
+    "end": "08/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de INMUNOLOGIA HUMANA",
+    "materiaId": "049",
+    "materia": "INMUNOLOGIA HUMANA",
+    "sedeCat": "00-01",
+    "obs": "Final Febrero 2019",
+    "start": "14/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de INMUNOLOGIA HUMANA",
+    "materiaId": "049",
+    "materia": "INMUNOLOGIA HUMANA",
+    "sedeCat": "00-01",
+    "obs": "Final Febrero 2019",
+    "start": "11/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final PATOLOGIA II",
+    "materiaId": "028",
+    "materia": "PATOLOGIA II",
+    "sedeCat": "00-00",
+    "obs": "13:30 hs",
+    "start": "06/02/2019",
+    "end": "08/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de PATOLOGIA II",
+    "materiaId": "028",
+    "materia": "PATOLOGIA II",
+    "sedeCat": "00-00",
+    "obs": "13:30 hs",
+    "start": "13/02/2109",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de PATOLOGIA II",
+    "materiaId": "028",
+    "materia": "PATOLOGIA II",
+    "sedeCat": "00-00",
+    "obs": "13:30 hs",
+    "start": "12/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final QUIMICA BIOLOGICA II - BIOQUIM",
+    "materiaId": "023",
+    "materia": "QUIMICA BIOLOGICA II - BIOQUIM",
+    "sedeCat": "00-00",
+    "obs": "2do. Final Febrero 2019",
+    "start": "07/02/2019",
+    "end": "13/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de QUIMICA BIOLOGICA II - BIOQUIM",
+    "materiaId": "023",
+    "materia": "QUIMICA BIOLOGICA II - BIOQUIM",
+    "sedeCat": "00-00",
+    "obs": "2do. Final Febrero 2019",
+    "start": "21/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de QUIMICA BIOLOGICA II - BIOQUIM",
+    "materiaId": "023",
+    "materia": "QUIMICA BIOLOGICA II - BIOQUIM",
+    "sedeCat": "00-00",
+    "obs": "2do. Final Febrero 2019",
+    "start": "15/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final SALUD PUBLICA I",
+    "materiaId": "015",
+    "materia": "SALUD PUBLICA I",
+    "sedeCat": "00-00",
+    "obs": "Final Febrero 2019",
+    "start": "07/02/2019",
+    "end": "12/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de SALUD PUBLICA I",
+    "materiaId": "015",
+    "materia": "SALUD PUBLICA I",
+    "sedeCat": "00-00",
+    "obs": "Final Febrero 2019",
+    "start": "25/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de SALUD PUBLICA I",
+    "materiaId": "015",
+    "materia": "SALUD PUBLICA I",
+    "sedeCat": "00-00",
+    "obs": "Final Febrero 2019",
+    "start": "19/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final SALUD PUBLICA II",
+    "materiaId": "052",
+    "materia": "SALUD PUBLICA II",
+    "sedeCat": "00-00",
+    "obs": "Final Febrero 2019",
+    "start": "07/02/2019",
+    "end": "12/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de SALUD PUBLICA II",
+    "materiaId": "052",
+    "materia": "SALUD PUBLICA II",
+    "sedeCat": "00-00",
+    "obs": "Final Febrero 2019",
+    "start": "25/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de SALUD PUBLICA II",
+    "materiaId": "052",
+    "materia": "SALUD PUBLICA II",
+    "sedeCat": "00-00",
+    "obs": "Final Febrero 2019",
+    "start": "19/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Febrero 2019",
+    "start": "09/02/2019",
+    "end": "11/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Febrero 2019",
+    "start": "15/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Febrero 2019",
+    "start": "12/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Febrero 2019",
+    "start": "09/02/2019",
+    "end": "11/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Febrero 2019",
+    "start": "15/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Febrero 2019",
+    "start": "12/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final PATOLOGIA I",
+    "materiaId": "027",
+    "materia": "PATOLOGIA I",
+    "sedeCat": "00-00",
+    "obs": "Final Febrero 2019",
+    "start": "09/02/2019",
+    "end": "11/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de PATOLOGIA I",
+    "materiaId": "027",
+    "materia": "PATOLOGIA I",
+    "sedeCat": "00-00",
+    "obs": "Final Febrero 2019",
+    "start": "18/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de PATOLOGIA I",
+    "materiaId": "027",
+    "materia": "PATOLOGIA I",
+    "sedeCat": "00-00",
+    "obs": "Final Febrero 2019",
+    "start": "13/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-01",
+    "obs": "1er. Final Febrero 2019",
+    "start": "11/02/2019",
+    "end": "13/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-01",
+    "obs": "1er. Final Febrero 2019",
+    "start": "21/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-01",
+    "obs": "1er. Final Febrero 2019",
+    "start": "14/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-01",
+    "obs": "1er. Final Febrero 2019",
+    "start": "11/02/2019",
+    "end": "13/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-01",
+    "obs": "1er. Final Febrero 2019",
+    "start": "21/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-01",
+    "obs": "1er. Final Febrero 2019",
+    "start": "14/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final MICRO Y PARASITO I",
+    "materiaId": "059",
+    "materia": "MICRO Y PARASITO I",
+    "sedeCat": "00-01",
+    "obs": "Final Febrero - Cat. 1",
+    "start": "11/02/2019",
+    "end": "13/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de MICRO Y PARASITO I",
+    "materiaId": "059",
+    "materia": "MICRO Y PARASITO I",
+    "sedeCat": "00-01",
+    "obs": "Final Febrero - Cat. 1",
+    "start": "18/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de MICRO Y PARASITO I",
+    "materiaId": "059",
+    "materia": "MICRO Y PARASITO I",
+    "sedeCat": "00-01",
+    "obs": "Final Febrero - Cat. 1",
+    "start": "14/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final MICRO y PARASITO II",
+    "materiaId": "069",
+    "materia": "MICRO y PARASITO II",
+    "sedeCat": "00-01",
+    "obs": "Final Febrero - Cat. 1",
+    "start": "11/02/2019",
+    "end": "13/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de MICRO y PARASITO II",
+    "materiaId": "069",
+    "materia": "MICRO y PARASITO II",
+    "sedeCat": "00-01",
+    "obs": "Final Febrero - Cat. 1",
+    "start": "19/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de MICRO y PARASITO II",
+    "materiaId": "069",
+    "materia": "MICRO y PARASITO II",
+    "sedeCat": "00-01",
+    "obs": "Final Febrero - Cat. 1",
+    "start": "14/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final INMUNOLOGIA HUMANA",
+    "materiaId": "049",
+    "materia": "INMUNOLOGIA HUMANA",
+    "sedeCat": "00-01",
+    "obs": "Final Febrero 2019",
+    "start": "13/02/2019",
+    "end": "15/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de INMUNOLOGIA HUMANA",
+    "materiaId": "049",
+    "materia": "INMUNOLOGIA HUMANA",
+    "sedeCat": "00-01",
+    "obs": "Final Febrero 2019",
+    "start": "21/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de INMUNOLOGIA HUMANA",
+    "materiaId": "049",
+    "materia": "INMUNOLOGIA HUMANA",
+    "sedeCat": "00-01",
+    "obs": "Final Febrero 2019",
+    "start": "18/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final PATOLOGIA II",
+    "materiaId": "028",
+    "materia": "PATOLOGIA II",
+    "sedeCat": "00-00",
+    "obs": "13:30hs",
+    "start": "13/02/2019",
+    "end": "15/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de PATOLOGIA II",
+    "materiaId": "028",
+    "materia": "PATOLOGIA II",
+    "sedeCat": "00-00",
+    "obs": "13:30hs",
+    "start": "22/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de PATOLOGIA II",
+    "materiaId": "028",
+    "materia": "PATOLOGIA II",
+    "sedeCat": "00-00",
+    "obs": "13:30hs",
+    "start": "19/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final MICRO Y PARASITO I",
+    "materiaId": "059",
+    "materia": "MICRO Y PARASITO I",
+    "sedeCat": "00-01",
+    "obs": "Final Febrero - Cat. 1",
+    "start": "15/02/2019",
+    "end": "18/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de MICRO Y PARASITO I",
+    "materiaId": "059",
+    "materia": "MICRO Y PARASITO I",
+    "sedeCat": "00-01",
+    "obs": "Final Febrero - Cat. 1",
+    "start": "25/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de MICRO Y PARASITO I",
+    "materiaId": "059",
+    "materia": "MICRO Y PARASITO I",
+    "sedeCat": "00-01",
+    "obs": "Final Febrero - Cat. 1",
+    "start": "19/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final PATOLOGIA I",
+    "materiaId": "027",
+    "materia": "PATOLOGIA I",
+    "sedeCat": "00-00",
+    "obs": "Final Febrero 2019",
+    "start": "16/02/2019",
+    "end": "18/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de PATOLOGIA I",
+    "materiaId": "027",
+    "materia": "PATOLOGIA I",
+    "sedeCat": "00-00",
+    "obs": "Final Febrero 2019",
+    "start": "25/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de PATOLOGIA I",
+    "materiaId": "027",
+    "materia": "PATOLOGIA I",
+    "sedeCat": "00-00",
+    "obs": "Final Febrero 2019",
+    "start": "20/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-01",
+    "obs": "2do. Final Febrero 2019",
+    "start": "18/02/2019",
+    "end": "20/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-01",
+    "obs": "2do. Final Febrero 2019",
+    "start": "28/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-01",
+    "obs": "2do. Final Febrero 2019",
+    "start": "21/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-01",
+    "obs": "2do. Final Febrero 2019",
+    "start": "18/02/2019",
+    "end": "20/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-01",
+    "obs": "2do. Final Febrero 2019",
+    "start": "28/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-01",
+    "obs": "2do. Final Febrero 2019",
+    "start": "21/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final MICRO y PARASITO II",
+    "materiaId": "069",
+    "materia": "MICRO y PARASITO II",
+    "sedeCat": "00-01",
+    "obs": "Final Febrero - Cat. 1",
+    "start": "18/02/2019",
+    "end": "20/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de MICRO y PARASITO II",
+    "materiaId": "069",
+    "materia": "MICRO y PARASITO II",
+    "sedeCat": "00-01",
+    "obs": "Final Febrero - Cat. 1",
+    "start": "26/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de MICRO y PARASITO II",
+    "materiaId": "069",
+    "materia": "MICRO y PARASITO II",
+    "sedeCat": "00-01",
+    "obs": "Final Febrero - Cat. 1",
+    "start": "22/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final SALUD PUBLICA I",
+    "materiaId": "015",
+    "materia": "SALUD PUBLICA I",
+    "sedeCat": "00-00",
+    "obs": "Final Marzo 2019",
+    "start": "20/02/2019",
+    "end": "26/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de SALUD PUBLICA I",
+    "materiaId": "015",
+    "materia": "SALUD PUBLICA I",
+    "sedeCat": "00-00",
+    "obs": "Final Marzo 2019",
+    "start": "11/03/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de SALUD PUBLICA I",
+    "materiaId": "015",
+    "materia": "SALUD PUBLICA I",
+    "sedeCat": "00-00",
+    "obs": "Final Marzo 2019",
+    "start": "05/03/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final SALUD PUBLICA II",
+    "materiaId": "052",
+    "materia": "SALUD PUBLICA II",
+    "sedeCat": "00-00",
+    "obs": "Final Marzo 2019",
+    "start": "20/02/2019",
+    "end": "26/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de SALUD PUBLICA II",
+    "materiaId": "052",
+    "materia": "SALUD PUBLICA II",
+    "sedeCat": "00-00",
+    "obs": "Final Marzo 2019",
+    "start": "11/03/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de SALUD PUBLICA II",
+    "materiaId": "052",
+    "materia": "SALUD PUBLICA II",
+    "sedeCat": "00-00",
+    "obs": "Final Marzo 2019",
+    "start": "05/03/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Curso de Verano 2019",
+    "start": "23/02/2019",
+    "end": "25/02/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Curso de Verano 2019",
+    "start": "06/03/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Curso de Verano 2019",
+    "start": "26/02/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Mayo 2019",
+    "start": "06/05/2019",
+    "end": "08/05/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Mayo 2019",
+    "start": "15/05/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Mayo 2019",
+    "start": "09/05/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Mayo 2019",
+    "start": "06/05/2019",
+    "end": "08/05/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Mayo 2019",
+    "start": "15/05/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Mayo 2019",
+    "start": "09/05/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Julio 2019",
+    "start": "06/07/2019",
+    "end": "09/07/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Julio 2019",
+    "start": "19/07/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Julio 2019",
+    "start": "10/07/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Julio 2019",
+    "start": "06/07/2019",
+    "end": "09/07/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Julio 2019",
+    "start": "19/07/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Julio 2019",
+    "start": "10/07/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Julio 2019",
+    "start": "20/07/2019",
+    "end": "22/07/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Julio 2019",
+    "start": "26/07/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Julio 2019",
+    "start": "23/07/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Julio 2019",
+    "start": "20/07/2019",
+    "end": "22/07/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Julio 2019",
+    "start": "26/07/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Julio 2019",
+    "start": "23/07/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Septiembre 2019",
+    "start": "09/09/2019",
+    "end": "11/09/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Septiembre 2019",
+    "start": "18/09/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Septiembre 2019",
+    "start": "12/09/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Septiembre 2019",
+    "start": "09/09/2019",
+    "end": "11/09/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Septiembre 2019",
+    "start": "18/09/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Septiembre 2019",
+    "start": "12/09/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Noviembre 2019",
+    "start": "22/11/2019",
+    "end": "25/11/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Noviembre 2019",
+    "start": "29/11/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Noviembre 2019",
+    "start": "26/11/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Noviembre 2019",
+    "start": "22/11/2019",
+    "end": "25/11/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Noviembre 2019",
+    "start": "29/11/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Noviembre 2019",
+    "start": "26/11/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre 2019",
+    "start": "30/11/2019",
+    "end": "01/12/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre 2019",
+    "start": "06/12/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre 2019",
+    "start": "02/12/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre 2019",
+    "start": "30/11/2019",
+    "end": "01/12/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre 2019",
+    "start": "06/12/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre 2019",
+    "start": "02/12/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre 2019",
+    "start": "07/12/2019",
+    "end": "08/12/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre 2019",
+    "start": "13/12/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre 2019",
+    "start": "09/12/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre 2019",
+    "start": "07/12/2019",
+    "end": "08/12/2019",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre 2019",
+    "start": "13/12/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Diciembre 2019",
+    "start": "09/12/2019",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Febrero 2020",
+    "start": "03/02/2020",
+    "end": "05/02/2020",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Febrero 2020",
+    "start": "12/02/2020",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Febrero 2020",
+    "start": "06/02/2020",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Febrero 2020",
+    "start": "03/02/2020",
+    "end": "05/02/2020",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Febrero 2020",
+    "start": "12/02/2020",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Febrero 2020",
+    "start": "06/02/2020",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Febrero 2020",
+    "start": "13/02/2020",
+    "end": "16/02/2020",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Febrero 2020",
+    "start": "19/02/2020",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA I",
+    "materiaId": "029",
+    "materia": "FARMACOLOGIA I",
+    "sedeCat": "00-03",
+    "obs": "Final Febrero 2020",
+    "start": "17/02/2020",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Inscripción a Final FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Febrero 2020",
+    "start": "13/02/2020",
+    "end": "16/02/2020",
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Final de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Febrero 2020",
+    "start": "19/02/2020",
+    "end": null,
+    "sede": "FACULTAD"
+  },
+  {
+    "title": "Ratificación de FARMACOLOGIA II",
+    "materiaId": "033",
+    "materia": "FARMACOLOGIA II",
+    "sedeCat": "00-03",
+    "obs": "Final Febrero 2020",
+    "start": "17/02/2020",
+    "end": null,
+    "sede": "FACULTAD"
+  }
+]

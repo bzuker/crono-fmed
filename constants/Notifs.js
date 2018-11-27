@@ -2,8 +2,17 @@
 // [...$0.children].slice(2).map(x => {
 // 	const cols = [...x.children]
 // 	const [materia, sedeCat, obs, comienzo, fin, fecha, finRat, sede] = cols.map(c => c.textContent);
-// 	return {materia, sedeCat,obs,comienzo,fin,fecha,finRat,sede}
+// 	return {id FALTA, materia, sedeCat,obs,comienzo,fin,fecha,finRat,sede}
 // })
+// .reduce((prev, curr) => {
+// 	const startEndEvent = { title: `Inscripción a Final ${curr.materia}`, materiaId: curr.id, materia: curr.materia, sedeCat: curr.sedeCat, obs: curr.obs, start: curr.comienzo, end: curr.fin, sede: curr.sede };
+// 	prev.push(startEndEvent);
+// 	const finalEvent = { title: `Final de ${curr.materia}`, materiaId: curr.id, materia: curr.materia, sedeCat: curr.sedeCat, obs: curr.obs, start: curr.fecha, end: null, sede: curr.sede };
+// 	prev.push(finalEvent)
+// 	const ratificacionEvent = { title: `Ratificación de ${curr.materia}`, materiaId: curr.id, materia: curr.materia, sedeCat: curr.sedeCat, obs: curr.obs, start: curr.finRat, end: null, sede: curr.sede };
+// 	prev.push(ratificacionEvent);
+// 	return prev;
+// }, []);
 const notifs = [
   {
     materiaId: '038',

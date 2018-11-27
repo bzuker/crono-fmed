@@ -9,7 +9,7 @@ export class MainApp extends Component {
   state = {
     user: null,
     materias: [],
-    notificaciones: []
+    eventos: []
   };
 
   componentDidMount = async () => {
@@ -21,14 +21,14 @@ export class MainApp extends Component {
 
   componentWillUnmount = () => {
     this.materiasRef.off();
-    this.notifRef.off();
+    this.eventosRef.off();
   };
 
   _setUpRefs = uid => {
     this.materiasRef = firebase.database().ref(`users/${uid}/materias`);
-    this.notifRef = firebase.database().ref(`users/${uid}/notificaciones`);
+    this.eventosRef = firebase.database().ref(`users/${uid}/eventos`);
     this.materiasRef.on('value', this._onMateriasChange);
-    this.notifRef.on('value', this._onNotifChange);
+    this.eventosRef.on('value', this._onEventosChange);
   };
 
   _onMateriasChange = snapshot => {
@@ -40,18 +40,23 @@ export class MainApp extends Component {
     this.setState({ materias });
   };
 
-  _onNotifChange = snapshot => {
-    console.log('notifs', snapshot);
-    let notificaciones = [];
+  _onEventosChange = snapshot => {
+    console.log('eventos', snapshot);
+    let eventos = [];
     snapshot.forEach(n => {
       console.log('val', n.val());
-      notificaciones.push({ ...n.val(), id: n.key });
+      eventos.push({ ...n.val(), id: n.key });
     });
-    this.setState({ notificaciones });
+    this.setState({ eventos });
   };
 
   render() {
-    return <MainTabNavigator screenProps={{ ...this.state }} navigation={this.props.navigation} />;
+    return (
+      <MainTabNavigator
+        screenProps={{ ...this.state }}
+        navigation={this.props.navigation}
+      />
+    );
   }
 }
 

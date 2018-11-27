@@ -1,6 +1,15 @@
 import React, { Component } from 'react';
 import { View, StyleSheet } from 'react-native';
-import { List, ListItem, Text, Left, Right, Body, Icon, ActionSheet } from 'native-base';
+import {
+  List,
+  ListItem,
+  Text,
+  Left,
+  Right,
+  Body,
+  Icon,
+  ActionSheet
+} from 'native-base';
 
 const styles = StyleSheet.create({
   header: {
@@ -27,15 +36,15 @@ const styles = StyleSheet.create({
   }
 });
 
-const Notificacion = ({ notificacion, onInfoPress }) => (
+const Evento = ({ evento, onInfoPress }) => (
   <ListItem style={{ alignItems: 'flex-start' }}>
     <Body>
-      <Text style={styles.header}>{notificacion.title}</Text>
+      <Text style={styles.header}>{evento.title}</Text>
       <Text note style={{ fontSize: 16 }}>
-        {notificacion.comment}
+        {evento.comment}
       </Text>
       <Text note style={{ marginTop: 32 }}>
-        {notificacion.start} - {notificacion.end}
+        {evento.start} - {evento.end}
       </Text>
     </Body>
     <Right>
@@ -50,7 +59,7 @@ const Notificacion = ({ notificacion, onInfoPress }) => (
   </ListItem>
 );
 
-export class Notificaciones extends Component {
+export class Eventos extends Component {
   onInfoPress = id =>
     ActionSheet.show(
       {
@@ -64,19 +73,23 @@ export class Notificaciones extends Component {
   onButtonPressed = (btnIndex, id) => {
     console.log(`Pressed ${btnIndex}. Id: ${id}`);
     if (btnIndex === 1) {
-      this.props.deleteNotification(id);
+      this.props.deleteEvento(id);
     }
   };
 
   render() {
     return (
       <List>
-        {this.props.data.map((x, i) => (
-          <Notificacion key={i} notificacion={x} onInfoPress={_ => this.onInfoPress(x.id)} />
+        {this.props.items.map((x, i) => (
+          <Evento
+            key={i}
+            evento={x}
+            onInfoPress={_ => this.onInfoPress(x.id)}
+          />
         ))}
       </List>
     );
   }
 }
 
-export default Notificaciones;
+export default Eventos;
