@@ -10,6 +10,8 @@ import {
   Icon,
   ActionSheet
 } from 'native-base';
+import { differenceInDays, parse } from 'date-fns';
+import { es } from 'date-fns/locale';
 
 const styles = StyleSheet.create({
   header: {
@@ -36,28 +38,41 @@ const styles = StyleSheet.create({
   }
 });
 
-const Evento = ({ evento, onInfoPress }) => (
-  <ListItem style={{ alignItems: 'flex-start' }}>
-    <Body>
-      <Text style={styles.header}>{evento.title}</Text>
-      <Text note style={{ fontSize: 16 }}>
-        {evento.comment}
-      </Text>
-      <Text note style={{ marginTop: 32 }}>
-        {evento.start} - {evento.end}
-      </Text>
-    </Body>
-    <Right>
-      <View style={styles.square}>
-        <Text style={styles.day}>12</Text>
-        <Text style={{ color: '#03a87c' }}>Días</Text>
-      </View>
-      <View style={styles.moreIcon}>
-        <Icon name="more-horizontal" type="Feather" onPress={onInfoPress} />
-      </View>
-    </Right>
-  </ListItem>
-);
+const Evento = ({ evento, onInfoPress }) => {
+  const parsedStartDate = parse(evento.start, 'dd/MM/yyyy', new Date());
+  // Sumamos 1 porque differenceInDays toma días completos
+  const difference =
+    differenceInDays(
+      parsedStartDate > new Date()
+        ? parsedStartDate
+        : parse(evento.end, 'dd/MM/yyyy', new Date()),
+      new Date()
+    ) + 1;
+  const differenceText =
+    difference === 0 ? '' : difference === 1 ? 'Día' : 'Días';
+  return (
+    <ListItem style={{ alignItems: 'flex-start' }}>
+      <Body>
+        <Text style={styles.header}>{evento.title}</Text>
+        <Text note style={{ fontSize: 16 }}>
+          {evento.comment}
+        </Text>
+        <Text note style={{ marginTop: 32 }}>
+          {evento.start} - {evento.end}
+        </Text>
+      </Body>
+      <Right>
+        <View style={styles.square}>
+          <Text style={styles.day}>{difference}</Text>
+          <Text style={{ color: '#03a87c' }}>{differenceText}</Text>
+        </View>
+        <View style={styles.moreIcon}>
+          <Icon name="more-horizontal" type="Feather" onPress={onInfoPress} />
+        </View>
+      </Right>
+    </ListItem>
+  );
+};
 
 export class Eventos extends Component {
   onInfoPress = id =>

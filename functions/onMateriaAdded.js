@@ -11,7 +11,6 @@ const onMateriaAdded = async (snapshot, ctx) => {
   const eventosRef = admin.database().ref(`users/${ctx.params.userId}/eventos`);
 
   // Obtengo cuáles son los eventos para esa materia.
-
   const response = await axios.get(eventosUrl);
   const events = response.data;
   const relevantEvents = events.filter(

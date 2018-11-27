@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "@expo/vector-icons": "^8.0.0",
+    "date-fns": "^2.0.0-alpha.25",
     "expo": "^31.0.2",
     "firebase": "^5.5.9",
     "native-base": "^2.8.1",

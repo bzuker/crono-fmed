@@ -14,6 +14,7 @@ import {
   Text
 } from 'native-base';
 import firebase from '../../src/firebase';
+import registerUserToken from '../../notifications/registerUserToken';
 
 export class AuthScreen extends Component {
   static navigationOptions = {
@@ -31,8 +32,7 @@ export class AuthScreen extends Component {
       const creds = await firebase
         .auth()
         .createUserWithEmailAndPassword(mail, pwd);
-      await AsyncStorage.setItem('user', JSON.stringify(creds.user));
-      this.props.navigation.navigate('App');
+      this._onSignInSuccess(creds);
     } catch (error) {
       if (error.code === 'auth/email-already-in-use') {
         this._signInAsync(mail, pwd);
@@ -44,11 +44,16 @@ export class AuthScreen extends Component {
     const { mail, pwd } = this.state;
     try {
       const creds = await firebase.auth().signInWithEmailAndPassword(mail, pwd);
-      await AsyncStorage.setItem('user', JSON.stringify(creds.user));
-      this.props.navigation.navigate('App');
+      this._onSignInSuccess(creds);
     } catch (error) {
       alert(JSON.stringify(error));
     }
+  };
+
+  _onSignInSuccess = async creds => {
+    await AsyncStorage.setItem('user', JSON.stringify(creds.user));
+    registerUserToken(creds.user);
+    this.props.navigation.navigate('App');
   };
 
   _signInAnonymousAsync = async _ => {
@@ -57,8 +62,7 @@ export class AuthScreen extends Component {
       .signInAnonymously()
       .then(async creds => {
         console.log(creds);
-        await AsyncStorage.setItem('user', JSON.stringify(creds));
-        this.props.navigation.navigate('App');
+        this._onSignInSuccess(creds);
       })
       .catch(error => {
         alert(JSON.stringify(error));
