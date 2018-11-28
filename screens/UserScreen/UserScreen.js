@@ -70,7 +70,7 @@ export class UserScreen extends Component {
                 <Text>Promedio</Text>
               </Left>
               <Right>
-                <Text note>9.50</Text>
+                <Text note>Calcular promedio</Text>
               </Right>
             </ListItem>
             <ListItem button onPress={this.signOut}>
