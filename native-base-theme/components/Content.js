@@ -9,8 +9,7 @@ export default (variables /*: * */ = variable) => {
     'NativeBase.Segment': {
       borderWidth: 0,
       backgroundColor: 'transparent'
-    },
-    padding: 10
+    }
   };
 
   return contentTheme;
