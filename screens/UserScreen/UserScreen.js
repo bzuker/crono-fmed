@@ -63,7 +63,7 @@ export class UserScreen extends Component {
               </Body>
             </CardItem>
           </Card>
-          <Separator>{/* <Text>MIDFIELD</Text> */}</Separator>
+          <Separator>{/* <Text></Text> */}</Separator>
           <List>
             <ListItem button onPress={_ => console.log('Hola')}>
               <Left>
