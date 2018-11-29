@@ -18,8 +18,12 @@ export class HomeScreen extends Component {
   componentDidUpdate = (prevProps, prevState) => {
     const { user } = this.props.screenProps;
     if (!prevProps.screenProps.user && user) {
-      this.ref = firebase.database().ref(`users/${user.uid}/eventos`);
+      this.ref = firebase.database().ref(`eventos/${user.uid}`);
     }
+  };
+
+  editEvento = evento => {
+    this.props.navigation.navigate('Add', { evento });
   };
 
   deleteEvento = id => {
@@ -41,6 +45,7 @@ export class HomeScreen extends Component {
         <Content>
           <Eventos
             items={this.props.screenProps.eventos}
+            editEvento={this.editEvento}
             deleteEvento={this.deleteEvento}
           />
         </Content>

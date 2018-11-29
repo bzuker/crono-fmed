@@ -2,7 +2,7 @@ import React from 'react';
 import { Platform } from 'react-native';
 import { createStackNavigator } from 'react-navigation';
 import HomeScreen from './HomeScreen';
-import AddNotificationScreen from './AddNotificationScreen';
+import AddNotificationScreen from './AddNotification/AddNotificationScreen';
 import TabBarIcon from '../../components/TabBarIcon';
 
 const HomeStack = createStackNavigator(

@@ -1,3 +1,4 @@
+// Arma el listado de materias con cátedras a partir de los eventos.
 const eventos = require('../hosting/eventos.json');
 
 const run = _ => {
@@ -19,8 +20,7 @@ const run = _ => {
     return prev;
   }, []);
 
-  console.log(materias);
-  console.log(`Son ${materias.length} materias`);
+  console.log(JSON.stringify(materias));
 };
 
 run();

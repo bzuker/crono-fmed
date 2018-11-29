@@ -27,27 +27,34 @@ export default class MateriasList extends Component {
     return (
       <List listItemPadding={20}>
         {Materias.map(x => (
-          <ListItem key={x.value}>
-            <Body>
+          <React.Fragment key={x.id}>
+            <ListItem itemDivider>
               <Text>{x.name}</Text>
-            </Body>
-            <Right>
-              <Icon
-                name={
-                  this.props.selected.includes(x.value)
-                    ? 'ios-checkmark'
-                    : 'ios-add'
-                }
-                style={[
-                  styles.icon,
-                  this.props.selected.includes(x.value)
-                    ? styles.iconActive
-                    : null
-                ]}
-                onPress={_ => this.props.toggleSelected(x.value)}
-              />
-            </Right>
-          </ListItem>
+            </ListItem>
+            {x.catedras.map((c, i) => (
+              <ListItem key={c}>
+                <Body>
+                  <Text>{`Cátedra ${c}`}</Text>
+                </Body>
+                <Right>
+                  <Icon
+                    name={
+                      this.props.selected.includes(x.id)
+                        ? 'ios-checkmark'
+                        : 'ios-add'
+                    }
+                    style={[
+                      styles.icon,
+                      this.props.selected.includes(x.id)
+                        ? styles.iconActive
+                        : null
+                    ]}
+                    onPress={_ => this.props.toggleSelected(x.id)}
+                  />
+                </Right>
+              </ListItem>
+            ))}
+          </React.Fragment>
         ))}
       </List>
     );

@@ -10,8 +10,7 @@ import {
   Icon,
   ActionSheet
 } from 'native-base';
-import { differenceInDays, parse } from 'date-fns';
-import { es } from 'date-fns/locale';
+import { differenceInDays, parse, compareAsc } from 'date-fns';
 
 const styles = StyleSheet.create({
   header: {
@@ -75,33 +74,40 @@ const Evento = ({ evento, onInfoPress }) => {
 };
 
 export class Eventos extends Component {
-  onInfoPress = id =>
+  onInfoPress = evento =>
     ActionSheet.show(
       {
         options: ['Editar', 'Eliminar', 'Cerrar'],
         cancelButtonIndex: 2,
         destructiveButtonIndex: 1
       },
-      btnIndex => this.onButtonPressed(btnIndex, id)
+      btnIndex => this.onButtonPressed(btnIndex, evento)
     );
 
-  onButtonPressed = (btnIndex, id) => {
-    console.log(`Pressed ${btnIndex}. Id: ${id}`);
+  onButtonPressed = (btnIndex, evento) => {
+    console.log(`Pressed ${btnIndex}. Id: ${evento.id}`);
+    if (btnIndex === 0) {
+      this.props.editEvento(evento);
+    }
+
     if (btnIndex === 1) {
-      this.props.deleteEvento(id);
+      this.props.deleteEvento(evento.id);
     }
   };
 
   render() {
     return (
       <List>
-        {this.props.items.map((x, i) => (
-          <Evento
-            key={i}
-            evento={x}
-            onInfoPress={_ => this.onInfoPress(x.id)}
-          />
-        ))}
+        {this.props.items
+          .sort((a, b) =>
+            compareAsc(
+              parse(a.start, 'dd/MM/yyyy', new Date()),
+              parse(b.start, 'dd/MM/yyyy', new Date())
+            )
+          )
+          .map((x, i) => (
+            <Evento key={i} evento={x} onInfoPress={_ => this.onInfoPress(x)} />
+          ))}
       </List>
     );
   }

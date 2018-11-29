@@ -1,10 +1,22 @@
 import React, { Component } from 'react';
 import { View } from 'react-native';
-import { Container, Header, Title, Content, Text, Left, Right, Icon, Button } from 'native-base';
+import {
+  Container,
+  Header,
+  Title,
+  Content,
+  Text,
+  Left,
+  Right,
+  Icon,
+  Button
+} from 'native-base';
 import NotificationForm from './NotificationForm';
 
 export class AddNotificationScreen extends Component {
   render() {
+    const evento = this.props.navigation.getParam('evento');
+    console.log('Evento', evento);
     return (
       <Container>
         <Header>
@@ -13,7 +25,8 @@ export class AddNotificationScreen extends Component {
               icon
               transparent
               style={{ marginLeft: 5 }}
-              onPress={_ => this.props.navigation.goBack()}>
+              onPress={_ => this.props.navigation.goBack()}
+            >
               <Icon name="ios-close" style={{ color: '#999' }} />
             </Button>
           </Left>
@@ -24,7 +37,7 @@ export class AddNotificationScreen extends Component {
           </Right>
         </Header>
         <Content>
-          <NotificationForm />
+          <NotificationForm event={evento} />
         </Content>
       </Container>
     );

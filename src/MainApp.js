@@ -26,7 +26,7 @@ export class MainApp extends Component {
 
   _setUpRefs = uid => {
     this.materiasRef = firebase.database().ref(`users/${uid}/materias`);
-    this.eventosRef = firebase.database().ref(`users/${uid}/eventos`);
+    this.eventosRef = firebase.database().ref(`eventos/${uid}`);
     this.materiasRef.on('value', this._onMateriasChange);
     this.eventosRef.on('value', this._onEventosChange);
   };

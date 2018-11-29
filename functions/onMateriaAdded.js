@@ -8,7 +8,7 @@ const eventosUrl = 'https://crono-fmed.firebaseapp.com/eventos.json';
 const onMateriaAdded = async (snapshot, ctx) => {
   console.log(`Usuario: ${ctx.params.userId}`);
   console.log(`Materia agregada ${ctx.params.materiaId}`);
-  const eventosRef = admin.database().ref(`users/${ctx.params.userId}/eventos`);
+  const eventosRef = admin.database().ref(`eventos/${ctx.params.userId}`);
 
   // Obtengo cuáles son los eventos para esa materia.
   const response = await axios.get(eventosUrl);
