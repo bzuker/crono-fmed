@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { View, StyleSheet, AsyncStorage } from 'react-native';
+import { View, StyleSheet, AsyncStorage, Modal } from 'react-native';
 import firebase from '../../src/firebase';
 import {
   Container,
@@ -39,6 +39,10 @@ const styles = StyleSheet.create({
 });
 
 export class UserScreen extends Component {
+  state = {
+    modalVisible: false
+  };
+
   signOut = async _ => {
     await AsyncStorage.removeItem('userToken');
     this.props.navigation.navigate('Auth');
@@ -65,12 +69,15 @@ export class UserScreen extends Component {
           </Card>
           <Separator>{/* <Text></Text> */}</Separator>
           <List>
-            <ListItem button onPress={_ => console.log('Hola')}>
+            <ListItem
+              button
+              onPress={_ => this.props.navigation.navigate('Promedio')}
+            >
               <Left>
                 <Text>Promedio</Text>
               </Left>
               <Right>
-                <Text note>Calcular promedio</Text>
+                <Text note>Calcular</Text>
               </Right>
             </ListItem>
             <ListItem button onPress={this.signOut}>
