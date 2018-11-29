@@ -5,7 +5,7 @@ import { createStackNavigator, createBottomTabNavigator } from 'react-navigation
 import TabBarIcon from '../components/TabBarIcon';
 import HomeStack from '../screens/Home';
 import MateriasScreen from '../screens/Materias/MateriasScreen';
-import SettingsScreen from '../screens/SettingsScreen';
+import UserScreen from '../screens/UserScreen/UserScreen';
 
 const MateriasStack = createStackNavigator(
   {
@@ -23,19 +23,22 @@ MateriasStack.navigationOptions = {
   )
 };
 
-const SettingsStack = createStackNavigator({
-  Settings: SettingsScreen
-});
+const UserStack = createStackNavigator(
+  {
+    User: UserScreen
+  },
+  { headerMode: 'none' }
+);
 
-SettingsStack.navigationOptions = {
-  tabBarLabel: 'Settings',
+UserStack.navigationOptions = {
+  tabBarLabel: 'Perfil',
   tabBarIcon: ({ focused }) => (
-    <TabBarIcon focused={focused} name={Platform.OS === 'ios' ? 'ios-options' : 'md-options'} />
+    <TabBarIcon focused={focused} name={Platform.OS === 'ios' ? 'ios-person' : 'md-person'} />
   )
 };
 
 export default createBottomTabNavigator({
+  UserStack,
   HomeStack,
-  MateriasStack,
-  SettingsStack
+  MateriasStack
 });
