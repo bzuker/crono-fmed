@@ -1,26 +1,26 @@
 // $0 es el select de materias
 // [...$0.children].slice(1).map(x => ({name: x.text, id: x.value}))
 export default [
-  { name: 'BIOETICA I', id: '038', catedras: ['04', '08'] },
-  { name: 'FISIOLOGIA Y BIOFISICA', id: '026', catedras: ['01', '02'] },
-  { name: 'QUIMICA BIOLOGICA II - BIOQUIM', id: '023', catedras: ['00'] },
-  { name: 'ANATOMIA', id: '010', catedras: ['01', '02', '03'] },
-  { name: 'FARMACOLOGIA II', id: '033', catedras: ['02', '03', '01'] },
-  { name: 'INMUNOLOGIA HUMANA', id: '049', catedras: ['01', '02'] },
-  { name: 'PATOLOGIA I', id: '027', catedras: ['00'] },
-  { name: 'SALUD PUBLICA I', id: '015', catedras: ['00'] },
-  { name: 'SALUD PUBLICA II', id: '052', catedras: ['00'] },
-  { name: 'MICRO y PARASITO II', id: '069', catedras: ['02', '01'] },
-  { name: 'MICRO Y PARASITO I', id: '059', catedras: ['01', '02'] },
+  { name: 'Bioetica I', id: '038', catedras: ['04', '08'] },
+  { name: 'Fisiología y Biofísica', id: '026', catedras: ['01', '02'] },
+  { name: 'Química Biológica II - Bioquim', id: '023', catedras: ['00'] },
+  { name: 'Anatomía', id: '010', catedras: ['01', '02', '03'] },
+  { name: 'Farmacología II', id: '033', catedras: ['02', '03', '01'] },
+  { name: 'Inmunología Humana', id: '049', catedras: ['01', '02'] },
+  { name: 'Patología I', id: '027', catedras: ['00'] },
+  { name: 'Salud Pública I', id: '015', catedras: ['00'] },
+  { name: 'Salud Pública II', id: '052', catedras: ['00'] },
+  { name: 'Micro y Parásito II', id: '069', catedras: ['02', '01'] },
+  { name: 'Micro y Parásito I', id: '059', catedras: ['01', '02'] },
   {
-    name: 'HIST,BIOL.CELULAR,EMBRIO Y GEN',
+    name: 'Hist, Biol. Celular, Embrio y Gen',
     id: '013',
     catedras: ['01', '02', '03']
   },
-  { name: 'PATOLOGIA II', id: '028', catedras: ['00'] },
-  { name: 'FARMACOLOGIA I', id: '029', catedras: ['02', '03', '01'] },
+  { name: 'Patología II', id: '028', catedras: ['00'] },
+  { name: 'Farmacología I', id: '029', catedras: ['02', '03', '01'] },
   {
-    name: 'SALUD MENTAL I - SALUD MENTAL',
+    name: 'Salud Mental I',
     id: '036',
     catedras: [
       '01',
