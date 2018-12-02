@@ -19,17 +19,46 @@ const styles = StyleSheet.create({
     justifyContent: 'center'
   },
   body: {
-    flex: 1
+    flex: 1,
+    margin: 10,
+    justifyContent: 'flex-start',
+    alignItems: 'center'
+  },
+  text: {
+    marginLeft: 10
   },
   inputContainer: {
-    display: 'flex'
+    flex: 1,
+    borderColor: 'blue',
+    borderWidth: 3
   },
   input: {
-    marginTop: 50
+    margin: '10%',
+    width: '50%',
+    height: '60%',
+    fontSize: 200
   }
 });
 
 export class PickScoreModal extends Component {
+  state = {
+    score: ''
+  };
+
+  onScoreChange = newScore => {
+    const newScoreInt = parseInt(newScore);
+    if (newScoreInt > 10) {
+      return;
+    }
+
+    this.setState({ score: newScore });
+  };
+
+  onSubmit = _ => {
+    this.props.onSubmit(this.state.score);
+    this.setState({ score: '' });
+  };
+
   render() {
     const { materia } = this.props;
     return (
@@ -41,20 +70,24 @@ export class PickScoreModal extends Component {
             </Body>
           </Header>
           <KeyboardAvoidingView behavior="padding" style={styles.container}>
+            <Text style={styles.text}>Tu nota:</Text>
             <View style={styles.body}>
-              <Text>Tu nota:</Text>
               <View styles={styles.inputContainer}>
                 <TextInput
                   style={styles.input}
                   placeholder="10"
                   keyboardType="number-pad"
                   returnKeyType="done"
+                  value={this.state.score}
+                  onChangeText={this.onScoreChange}
+                  autoFocus
+                  caretHidden={this.state.score != ''}
                 />
               </View>
             </View>
             <View style={styles.bottom}>
-              <Button full>
-                <Text>Chau</Text>
+              <Button full onPress={this.onSubmit}>
+                <Text style={{ color: 'white' }}>Guardar</Text>
               </Button>
             </View>
           </KeyboardAvoidingView>

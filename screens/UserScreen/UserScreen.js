@@ -17,6 +17,7 @@ import {
   List,
   ListItem
 } from 'native-base';
+import PickScoreModal from './PromedioScreen/PickScoreModal';
 
 const styles = StyleSheet.create({
   icon: {
@@ -69,10 +70,7 @@ export class UserScreen extends Component {
           </Card>
           <Separator>{/* <Text></Text> */}</Separator>
           <List>
-            <ListItem
-              button
-              onPress={_ => this.props.navigation.navigate('Promedio')}
-            >
+            <ListItem button onPress={_ => this.props.navigation.navigate('Promedio')}>
               <Left>
                 <Text>Promedio</Text>
               </Left>

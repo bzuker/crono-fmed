@@ -40,7 +40,8 @@ export class ChooseMateria extends Component {
     searchValue: '',
     filteredSubjects: Materias,
     modalVisible: false,
-    materiaSelected: null
+    materiaSelected: null,
+    allScores: []
   };
 
   onMateriaSelected = materia => {
@@ -55,6 +56,21 @@ export class ChooseMateria extends Component {
       x.name.toLowerCase().includes(text.toLowerCase())
     );
     this.setState({ searchValue: text, filteredSubjects });
+  };
+
+  onScoreUpdated = score => {
+    console.log(this.state);
+    const newScore = { materia: this.state.materiaSelected, score };
+    this.setState(state => ({ ...state, allScores: [...state.allScores, newScore] }));
+    this.closeModal();
+  };
+
+  getPromedio = _ => {
+    const { allScores } = this.state;
+    if (allScores.length === 0) return 0;
+    const sum = allScores.reduce((a, b) => a + parseInt(b.score), 0);
+    const average = sum / allScores.length;
+    return Math.round(average * 100) / 100;
   };
 
   render() {
@@ -100,12 +116,14 @@ export class ChooseMateria extends Component {
             visible={this.state.modalVisible}
             close={this.closeModal}
             materia={this.state.materiaSelected}
+            onSubmit={this.onScoreUpdated}
           />
         </Content>
         <Footer>
           <FooterTab>
             <Button full>
-              <Text>Footer</Text>
+              <Text>Promedio: {this.getPromedio()}</Text>
+              <Text>Materias: {this.state.allScores.length}</Text>
             </Button>
           </FooterTab>
         </Footer>
