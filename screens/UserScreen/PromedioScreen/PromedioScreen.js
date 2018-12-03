@@ -12,7 +12,9 @@ import {
   Right,
   Body,
   Icon,
-  Text
+  Text,
+  List,
+  ListItem
 } from 'native-base';
 
 export class PromedioScreen extends Component {
@@ -25,28 +27,41 @@ export class PromedioScreen extends Component {
               icon
               transparent
               style={{ marginLeft: 5 }}
-              onPress={_ => this.props.navigation.navigate('User')}
-            >
+              onPress={_ => this.props.navigation.navigate('User')}>
               <Icon name="ios-close" style={{ color: '#999' }} />
             </Button>
           </Left>
-          <Body>
-            <Title>Promedio</Title>
-          </Body>
+          <Body>{/* <Title>Promedio</Title> */}</Body>
           <Right />
         </Header>
         <Content>
-          <Button
-            full
-            onPress={_ => this.props.navigation.navigate('Materias')}
-          >
-            <Text>Click!</Text>
-          </Button>
+          <List>
+            <ListItem itemDivider style={{ flex: 1, justifyContent: 'space-between' }}>
+              <Text style={{ fontSize: 13 }}>Promedio: 9.12</Text>
+              <Text style={{ fontSize: 13 }}>Materias: 10</Text>
+            </ListItem>
+            <ListItem>
+              <Left>
+                <Text>Bioquímica I</Text>
+              </Left>
+              <Right>
+                <Text note>5</Text>
+              </Right>
+            </ListItem>
+            <ListItem>
+              <Left>
+                <Text>Bioquímica I</Text>
+              </Left>
+              <Right>
+                <Text note>10</Text>
+              </Right>
+            </ListItem>
+          </List>
         </Content>
         <Footer>
           <FooterTab>
-            <Button full>
-              <Text>Footer</Text>
+            <Button primary full onPress={_ => this.props.navigation.navigate('Materias')}>
+              <Text style={{ color: 'white' }}>Agregar Materia</Text>
             </Button>
           </FooterTab>
         </Footer>

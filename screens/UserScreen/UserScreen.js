@@ -17,7 +17,6 @@ import {
   List,
   ListItem
 } from 'native-base';
-import PickScoreModal from './PromedioScreen/PickScoreModal';
 
 const styles = StyleSheet.create({
   icon: {

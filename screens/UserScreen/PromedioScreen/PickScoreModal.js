@@ -1,17 +1,6 @@
 import React, { Component } from 'react';
 import { Text, View, Modal, StyleSheet, TextInput, KeyboardAvoidingView } from 'react-native';
-import {
-  Button,
-  Container,
-  Header,
-  Title,
-  Content,
-  Body,
-  Left,
-  Right,
-  Footer,
-  FooterTab
-} from 'native-base';
+import { Button, Container, Header, Title, Content, Body, Left, Right, Icon } from 'native-base';
 
 const styles = StyleSheet.create({
   container: {
@@ -60,14 +49,20 @@ export class PickScoreModal extends Component {
   };
 
   render() {
-    const { materia } = this.props;
+    const { materia, close } = this.props;
     return (
       <Modal animationType="fade" visible={this.props.visible}>
         <Container>
           <Header transparent>
+            <Left>
+              <Button icon transparent style={{ marginLeft: 5 }} onPress={close}>
+                <Icon name="ios-close" style={{ color: '#999' }} />
+              </Button>
+            </Left>
             <Body>
               <Title>{materia && materia.name}</Title>
             </Body>
+            <Right />
           </Header>
           <KeyboardAvoidingView behavior="padding" style={styles.container}>
             <Text style={styles.text}>Tu nota:</Text>

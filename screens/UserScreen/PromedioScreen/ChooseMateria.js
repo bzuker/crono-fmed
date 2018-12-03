@@ -59,10 +59,10 @@ export class ChooseMateria extends Component {
   };
 
   onScoreUpdated = score => {
-    console.log(this.state);
     const newScore = { materia: this.state.materiaSelected, score };
     this.setState(state => ({ ...state, allScores: [...state.allScores, newScore] }));
     this.closeModal();
+    this.props.navigation.goBack();
   };
 
   getPromedio = _ => {
@@ -119,14 +119,6 @@ export class ChooseMateria extends Component {
             onSubmit={this.onScoreUpdated}
           />
         </Content>
-        <Footer>
-          <FooterTab>
-            <Button full>
-              <Text>Promedio: {this.getPromedio()}</Text>
-              <Text>Materias: {this.state.allScores.length}</Text>
-            </Button>
-          </FooterTab>
-        </Footer>
       </Container>
     );
   }
